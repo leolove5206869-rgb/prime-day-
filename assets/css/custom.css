@@ -1,0 +1,59 @@
+/* ========== 整体专业感优化 ========== */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #1f2937;
+  line-height: 1.75;
+  background-color: #ffffff;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  color: #111827;
+}
+
+.article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+/* 标题更优雅 */
+.article__title {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  line-height: 1.2;
+}
+
+/* 段落与列表更有呼吸感 */
+p, li {
+  margin-bottom: 1.25em;
+  font-size: 1.05rem;
+}
+
+/* 小标题样式 */
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* 列表优化 */
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+/* 让整体更有高级感 */
+header, .site-header {
+  border-bottom: 1px solid #f3f4f6;
+}
+
+footer {
+  border-top: 1px solid #f3f4f6;
+  padding-top: 2rem;
+  margin-top: 4rem;
+  color: #6b7280;
+  font-size: 0.95rem;
+}

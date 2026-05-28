@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Prime Day 智能家居评测</title>
+    <link>http://localhost:1313/reviews/</link>
+    <description>Recent content in Reviews on Prime Day 智能家居评测</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ring Battery Video Doorbell 深度评测</title>
+      <link>http://localhost:1313/reviews/ring-video-doorbell/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/ring-video-doorbell/</guid>
+      <description>&lt;h2 id=&#34;产品简介&#34;&gt;产品简介&lt;/h2&gt;&#xA;&lt;p&gt;Ring Battery Video Doorbell 是目前最受欢迎的无线可视门铃之一，适合不想布线或租房用户。&lt;/p&gt;&#xA;&lt;h2 id=&#34;值得买的理由&#34;&gt;值得买的理由&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;安装非常简单，无需接线&lt;/li&gt;&#xA;&lt;li&gt;画质清晰，尤其在逆光环境下表现不错&lt;/li&gt;&#xA;&lt;li&gt;与 Alexa 生态结合紧密&lt;/li&gt;&#xA;&lt;li&gt;夜视效果良好&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;需要注意的点&#34;&gt;需要注意的点&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;需要订阅才能查看历史录像和智能提醒&lt;/li&gt;&#xA;&lt;li&gt;如果你强烈抵触订阅，可以考虑其他本地存储方案&lt;/li&gt;&#xA;&lt;li&gt;适合已经使用 Alexa 设备的用户&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;&#xA;&lt;p&gt;如果你想要一个安装简单、画质可靠的无线门铃，并且能接受订阅服务，Ring Battery Video Doorbell 是目前值得考虑的选择。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;适合人群&lt;/strong&gt;：租房用户、想要快速安装、已经使用 Alexa 的家庭。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
