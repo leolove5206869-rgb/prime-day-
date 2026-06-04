@@ -8,6 +8,6 @@ draft: false
 
 If you have any questions, suggestions, or feedback about the content on this site, feel free to reach out.
 
-**Email**: your-email@example.com
+**Email**: contact@homekitchenpicks.com
 
 I will try to respond within a few days. Thank you for visiting.

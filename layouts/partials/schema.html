@@ -1,0 +1,104 @@
+<!-- GEO-optimized JSON-LD Schema with Speakable, FAQPage, and enhanced Product markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ .Site.BaseURL }}#organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}",
+      "description": "{{ .Site.Params.description }}",
+      "foundingDate": "2026",
+      "sameAs": [],
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Amazon Associates Program"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ .Site.BaseURL }}#website",
+      "url": "{{ .Site.BaseURL }}",
+      "name": "{{ .Site.Title }}",
+      "publisher": {
+        "@id": "{{ .Site.BaseURL }}#organization"
+      },
+      "inLanguage": "en-US",
+      "description": "{{ .Site.Params.description }}",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "{{ .Site.BaseURL }}search/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {{- if .IsPage }}
+    {{- if eq .Type "review" }}
+    {
+      "@type": "Product",
+      "@id": "{{ .Permalink }}#product",
+      "name": "{{ .Title }}",
+      "description": "{{ .Params.summary | default .Summary }}",
+      "url": "{{ .Permalink }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "{{ .Params.brand | default "Various" }}"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "{{ .Params.rating | default "0" }}",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author | default "HomeKitchen Picks Team" }}{{ end }}"
+        }
+      }
+    },
+    {{- end }}
+    {
+      "@type": "Article",
+      "@id": "{{ .Permalink }}#article",
+      "headline": "{{ .Title }}",
+      "description": "{{ .Params.summary | default .Summary }}",
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author | default "HomeKitchen Picks Team" }}{{ end }}",
+        "url": "{{ .Site.BaseURL }}about/"
+      },
+      "publisher": {
+        "@id": "{{ .Site.BaseURL }}#organization"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "wordCount": {{ .WordCount }},
+      "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
+      "inLanguage": "en-US",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".article-summary", ".faq-section"]
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>

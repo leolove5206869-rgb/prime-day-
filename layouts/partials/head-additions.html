@@ -1,1 +1,17 @@
+<!-- Custom CSS -->
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+<!-- GEO: AI crawler optimization meta tags -->
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="author" content="HomeKitchen Picks Team">
+<meta name="affiliate-disclosure" content="This site earns commissions through Amazon Associates and other affiliate programs. Our reviews are not influenced by affiliate relationships.">
+
+<!-- Open Graph improvements for social sharing -->
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+
+<!-- GEO: Speakable content identification -->
+{{ if .IsPage }}
+  {{ $speakableSections := slice "summary" "content" }}
+  <meta property="speakable" content='{{ $speakableSections | jsonify }}'>
+{{ end }}

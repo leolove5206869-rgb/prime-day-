@@ -1,0 +1,13 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex flex-column items-center">
+    <div class="flex justify-between w-100">
+      <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}">
+        &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+      </a>
+      <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+    </div>
+    <p class="f6 white-50 ph3 mt2 mb0 tc" style="max-width:600px;line-height:1.4;">
+      HomeKitchen Picks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate we earn from qualifying purchases. <a href="/privacy-policy/" class="white-60 hover-white">Privacy Policy</a>
+    </p>
+  </div>
+</footer>
