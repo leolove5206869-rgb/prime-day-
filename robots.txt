@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Allow AI crawlers for GEO visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://shiny-madeleine-b8a16f.netlify.app/sitemap.xml
