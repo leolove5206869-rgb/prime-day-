@@ -47,7 +47,7 @@ The Ninja DUO is the best blender I've tested under $200. It blends smoother tha
 
 **The bad:** The 72oz pitcher is heavy (8+ lbs full). The lid seal collects residue over time and needs regular deep cleaning. The "Total Crushing" blades are sharp enough to cut yourself while washing. The base is 7.5 inches wide — takes up real counter space. No hot blending capability (the pitcher can't handle temperatures above 140F).
 
-**Price:** $120-140. [Buy on Amazon →](https://www.amazon.com/dp/B08GKZSVMS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $120-140. <a href="https://www.amazon.com/dp/B08GKZSVMS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best all-around blender for most households. Does everything well, nothing poorly.
 
 ### 2. Oster Pro 1200 — Best Value ($60)
@@ -58,7 +58,7 @@ The Oster Pro 1200 is the blender you buy when you need something now and don't 
 
 **The bad:** The blade assembly has a gasket that eventually leaks. I've owned two Oster blenders and both developed slow leaks around the blade base after 12-18 months. The glass jar is heavy (4 lb empty). The "Pulse" button is poorly positioned (next to the cleaning brush) and easy to hit accidentally. The smoothie programs are not as well-calibrated as Ninja's — I get better results using manual control.
 
-**Price:** $55-70. [Buy on Amazon →](https://www.amazon.com/dp/B00XHXN54K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $55-70. <a href="https://www.amazon.com/dp/B00XHXN54K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The right choice if you blend 1-2 times per week and want to spend under $80. Not for daily use.
 
 ### 3. Cuisinart Hurricane Compact — Best Compact ($100)
@@ -69,7 +69,7 @@ The Cuisinart Hurricane Compact is what you buy when you want a blender that doe
 
 **The bad:** The 700W motor struggles with nut butters and frozen banana-heavy smoothies — I had to add extra liquid to get things moving. The blade assembly is not removable from the jar base for cleaning (you clean it as one unit). No single-serve cup included. The lid is tight to the point of being difficult to remove.
 
-**Price:** $90-110. [Buy on Amazon →](https://www.amazon.com/dp/B01MAXVK9Q?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $90-110. <a href="https://www.amazon.com/dp/B01MAXVK9Q?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best compact blender for small kitchens or light use. Don't buy if you make nut butter or thick smoothies.
 
 ### 4. Vitamix Explorian E310 — On Sale Splurge ($200 list, $180 on sale)
@@ -80,7 +80,7 @@ The Vitamix Explorian occasionally drops below $200 during Amazon sales. At that
 
 **The bad:** At full price ($200+), it lacks Auto-iQ programs that the Ninja has at $130. The container is narrower and taller than competitors — hard to fit under cabinets. No single-serve cup included. The sound at high speed is piercing (93dB). For $70 extra, you get a better warranty and marginally better blending, but lose convenience features.
 
-**Price:** $180-220. [Buy on Amazon →](https://www.amazon.com/dp/B07GC9XZ9W?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $180-220. <a href="https://www.amazon.com/dp/B07GC9XZ9W?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Buy on sale only ($180 or less). At full price, the Ninja DUO is smarter for most people.
 
 ## Comparison Table
@@ -100,10 +100,10 @@ The Vitamix Explorian occasionally drops below $200 during Amazon sales. At that
 
 ## Bottom Line
 
-**Best all-around:** [Ninja Professional Plus DUO](https://www.amazon.com/dp/B08GKZSVMS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($130)
-**Best budget:** [Oster Pro 1200](https://www.amazon.com/dp/B00XHXN54K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($60)
-**Best compact:** [Cuisinart Hurricane Compact](https://www.amazon.com/dp/B01MAXVK9Q?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($100)
-**Best splurge (on sale):** [Vitamix Explorian E310](https://www.amazon.com/dp/B07GC9XZ9W?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($180-200)
+**Best all-around:** <a href="https://www.amazon.com/dp/B08GKZSVMS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Ninja Professional Plus DUO</a> ($130)
+**Best budget:** <a href="https://www.amazon.com/dp/B00XHXN54K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Oster Pro 1200</a> ($60)
+**Best compact:** <a href="https://www.amazon.com/dp/B01MAXVK9Q?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Cuisinart Hurricane Compact</a> ($100)
+**Best splurge (on sale):** <a href="https://www.amazon.com/dp/B07GC9XZ9W?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Vitamix Explorian E310</a> ($180-200)
 
 ## FAQ
 

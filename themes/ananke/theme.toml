@@ -1,0 +1,13 @@
+# theme.toml template for Hugo
+name = "ananke"
+license = "MIT"
+licenselink = "https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/LICENSE"
+description = "Vendored minimal ananke theme"
+homepage = "https://github.com/theNewDynamic/gohugo-theme-ananke"
+tags = []
+features = []
+min_version = "0.81.0"
+
+[author]
+  name = "theNewDynamic"
+  homepage = "https://github.com/theNewDynamic"

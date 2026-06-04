@@ -52,7 +52,7 @@ The glass carafe is borosilicate (not cheap soda-lime), so it handles thermal sh
 
 **The catch:** The glass carafe breaks if you tap it against the sink while washing. Order a replacement carafe at the same time and you won't be caught waiting.
 
-**Price:** $35-45 depending on size. [Buy on Amazon →](https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $35-45 depending on size. <a href="https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** There's nothing to improve. Buy this one.
 
 ### 2. Secura French Press (27oz) — Best Budget
@@ -63,7 +63,7 @@ The Secura does everything a french press should do and nothing it shouldn't. Th
 
 **Where it cuts corners:** The lid is plastic. The handle is welded on and can wobble if you torque it. The screen isn't as fine as Bodum's, so you'll get slightly more sediment at the bottom of your cup.
 
-**Price:** $25. [Buy on Amazon →](https://www.amazon.com/dp/B07RJJ2SGG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $25. <a href="https://www.amazon.com/dp/B07RJJ2SGG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** For $25, this is unbeatable. Buy it if you're rough on kitchen gear or you want to brew coffee and drink it over an hour instead of 15 minutes.
 
 ### 3. Espro P3 (32oz) — Best Splurge
@@ -74,7 +74,7 @@ It uses a double micro-filter (two mesh screens instead of one) that catches 99%
 
 **The trade-offs:** It's $80-90. The double filter makes cleanup slightly harder (you have to unscrew two screens). And the insulated carafe is heavier — 2.2 lb vs 1.1 lb for the Bodum.
 
-**Price:** $80-90. [Buy on Amazon →](https://www.amazon.com/dp/B0FLLFXZF5?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $80-90. <a href="https://www.amazon.com/dp/B0FLLFXZF5?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** If you drink coffee slowly or you hate sludge, this is worth every penny.
 
 ## Comparison Table
@@ -99,7 +99,7 @@ It uses a double micro-filter (two mesh screens instead of one) that catches 99%
 
 French press coffee doesn't require a $100 gadget. The Bodum Chambord ($35-40) makes exactly the same quality coffee as anything more expensive. Spend the extra money only if you have a specific problem (breakage, heat retention, sludge sensitivity).
 
-**Our pick:** [Bodum Chambord, 34oz](https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1). It's the standard for a reason.
+**Our pick:** <a href="https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Bodum Chambord, 34oz</a>. It's the standard for a reason.
 
 ## FAQ
 

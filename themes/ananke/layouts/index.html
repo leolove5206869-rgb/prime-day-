@@ -1,0 +1,22 @@
+{{ define "title" }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<main class="mw8 center ph4 pv4">
+  <h1 class="f1 lh-title">{{ .Title }}</h1>
+  <div class="nested-copy-line-height lh-copy serif f4 mid-gray">
+    {{ .Content }}
+  </div>
+  {{ with site.GetPage "/reviews" }}
+  <h2 class="f3 mt4">Latest Reviews</h2>
+  <div class="flex flex-wrap">
+    {{ range .Pages }}
+    <div class="w-100 w-50-m w-33-l ph2 pv2">
+      <article class="bg-white ba b--light-gray br2 pa3 h-100">
+        <h3 class="f4 mt0"><a href="{{ .RelPermalink }}" class="link dark-blue dim">{{ .Title }}</a></h3>
+        {{ if .Summary }}<p class="f6 lh-copy mid-gray">{{ .Summary | truncate 150 }}</p>{{ end }}
+      </article>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</main>
+{{ end }}

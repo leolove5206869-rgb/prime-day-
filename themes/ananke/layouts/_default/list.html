@@ -1,0 +1,20 @@
+{{ define "title" }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<section class="mw8 center ph4 pv4">
+  <h1 class="f2 lh-title">{{ .Title }}</h1>
+  <div class="nested-copy-line-height lh-copy serif f4 mid-gray mb4">
+    {{ .Content }}
+  </div>
+  <div class="flex flex-wrap">
+    {{ range .Pages }}
+    <div class="w-100 w-50-m w-33-l ph2 pv2">
+      <article class="bg-white ba b--light-gray br2 pa3 h-100">
+        <h2 class="f4 mt0"><a href="{{ .RelPermalink }}" class="link dark-blue dim">{{ .Title }}</a></h2>
+        {{ if .Summary }}<p class="f6 lh-copy mid-gray">{{ .Summary | truncate 150 }}</p>{{ end }}
+        {{ if .Date }}<time class="f7 silver">{{ .Date.Format "Jan 2, 2006" }}</time>{{ end }}
+      </article>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

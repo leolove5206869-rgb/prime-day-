@@ -67,7 +67,7 @@ The Baratza Encore is the most recommended coffee grinder on the internet, and a
 
 **The bad:** It's loud (79dB — you'll hear it in the next room). The hopper holds 8oz but there's no single-dose option (you can't accurately weigh beans in the hopper). The plastic body looks utilitarian. The static cling causes grounds to stick to the catch cup in dry weather. No espresso-specific grind range (the ESP model addresses this).
 
-**Price:** $150. [Buy on Amazon →](https://www.amazon.com/dp/B007F183LK?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $150. <a href="https://www.amazon.com/dp/B007F183LK?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The safest recommendation in coffee. Buy this and stop researching.
 
 ### 2. OXO Brew Conical Burr — Best Value ($100)
@@ -78,7 +78,7 @@ The OXO Brew is what you buy when you want 95% of the Encore's performance for $
 
 **The bad:** Only 15 settings (vs 40 on the Encore). The step between adjacent settings is larger, so you can't dial in as precisely (two clicks might go from slightly fine to slightly coarse with no sweet spot between). The grind quality for french press (coarse) is less consistent — 85% at the coarsest setting vs 90% for the Encore. No single-dose option. Plastic burr holder (the Encore uses metal).
 
-**Price:** $100. [Buy on Amazon →](https://www.amazon.com/dp/B07CSKGLMM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $100. <a href="https://www.amazon.com/dp/B07CSKGLMM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The smartest buy for dripper and Aeropress users. Save the $50 for better beans.
 
 ### 3. Baratza Encore ESP — Best for Espresso ($200)
@@ -89,7 +89,7 @@ The Encore ESP is the standard Encore with an upgraded burr set that extends int
 
 **The bad:** Switching between espresso and pour-over requires counting clicks (go from setting 20 → setting 4, count 16 clicks). There's no mechanical stop at zero — it's easy to overshoot. The stepped adjustment means you can't fine-tune between clicks for espresso. And at $200, you're $50 more than the standard Encore.
 
-**Price:** $200. [Buy on Amazon →](https://www.amazon.com/dp/B0BW272XCV?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $200. <a href="https://www.amazon.com/dp/B0BW272XCV?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The only grinder under $200 that does both espresso and pour-over well. Worth the extra $50 if you own an espresso machine.
 
 ### 4. Timemore C2 Manual — Best Manual ($60)
@@ -100,7 +100,7 @@ A manual hand grinder that produces grind quality matching $200 electric grinder
 
 **The bad:** Grinding 20g for pour-over takes 40-60 seconds of hand cranking (vs 8 seconds electric). The capacity is 25g max — enough for one large mug. The burr adjustment is internal (unscrew the top, rotate a nut) — less convenient than a dial. The handle attachment is magnetic but can detach if you grind aggressively. No espresso capability (the steps are too wide for espresso tuning).
 
-**Price:** $55-70. [Buy on Amazon →](https://www.amazon.com/dp/B0833SDN8M?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $55-70. <a href="https://www.amazon.com/dp/B0833SDN8M?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best value in coffee grinding. Perfect for single-serve pour-over drinkers who don't mind 45 seconds of hand cranking.
 
 ## Comparison Table
@@ -126,10 +126,10 @@ A manual hand grinder that produces grind quality matching $200 electric grinder
 
 ## Bottom Line
 
-**Best all-around:** [Baratza Encore](https://www.amazon.com/dp/B007F183LK?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($150)
-**Best value:** [OXO Brew Conical Burr](https://www.amazon.com/dp/B07D3LJCQY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($100)
-**Best for espresso:** [Baratza Encore ESP](https://www.amazon.com/dp/B0BF2ZP1Y4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($200)
-**Best manual:** [Timemore C2](https://www.amazon.com/dp/B0833SDN8M?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($60)
+**Best all-around:** <a href="https://www.amazon.com/dp/B007F183LK?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Baratza Encore</a> ($150)
+**Best value:** <a href="https://www.amazon.com/dp/B07D3LJCQY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">OXO Brew Conical Burr</a> ($100)
+**Best for espresso:** <a href="https://www.amazon.com/dp/B0BF2ZP1Y4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Baratza Encore ESP</a> ($200)
+**Best manual:** <a href="https://www.amazon.com/dp/B0833SDN8M?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Timemore C2</a> ($60)
 
 ## FAQ
 

@@ -63,7 +63,7 @@ The Cosori Pro II is everything calibrated right. Big enough for family meals, s
 
 **The bad:** Touch panel less responsive than physical buttons. Basket handle gets warm during longer cooks. Outer shell shows fingerprints. App connectivity adds nothing useful.
 
-**Price:** $100-120. [Buy on Amazon →](https://www.amazon.com/dp/B089ZT66H9?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $100-120. <a href="https://www.amazon.com/dp/B089ZT66H9?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Buy this one. Safest choice.
 
 ### 2. Ninja Foodi 10qt 2-Basket — Best for Families ($150)
@@ -74,7 +74,7 @@ Two independent 5qt baskets with separate controls. Solves air frying's biggest 
 
 **The bad:** Massive (15x13x12 inches). Presets poorly calibrated (fries at 375F for 18 minutes is too long). Two nonstick surfaces to clean instead of one. 50% more than single-basket alternatives.
 
-**Price:** $150-180. [Buy on Amazon →](https://www.amazon.com/dp/B09SNWLLZM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $150-180. <a href="https://www.amazon.com/dp/B09SNWLLZM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Best air fryer for families of 3+. For 1-2 people, Cosori Pro II is smarter.
 
 ### 3. Instant Pot Vortex Plus 6qt — Best Value ($80)
@@ -83,7 +83,7 @@ The Vortex Plus cooks evenly and reaches temperature quickly (2 minutes to 400F)
 
 **The bad:** Controls less intuitive than Cosori. Beeps are LOUD and cannot be adjusted. Round basket means less usable space than square (6qt round = roughly 5qt square).
 
-**Price:** $70-90 (frequently on sale). [Buy on Amazon →](https://www.amazon.com/dp/B096N3FTZP?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $70-90 (frequently on sale). <a href="https://www.amazon.com/dp/B096N3FTZP?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Wait for a sale at $70. At $100 full price, get the Cosori.
 
 ### 4. Cuisinart TOA-60 — Best Oven-Style ($180)
@@ -92,7 +92,7 @@ Replaces a toaster oven and air fryer. 0.6 cu ft fits a 4-pound chicken or 12-in
 
 **The bad:** Doesn't replace basket-style for crispy fries — needs 2-3 extra minutes and a mid-cook shake. Cleanup harder with crumb tray and racks. Large (16" wide) and heavy (23 lb).
 
-**Price:** $180-200. [Buy on Amazon →](https://www.amazon.com/dp/B09HSWBTN4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $180-200. <a href="https://www.amazon.com/dp/B09HSWBTN4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Buy this if counter space is tight and you'd use it as toaster oven + air fryer. For air frying alone, get Cosori.
 
 ## Comparison Table
@@ -109,10 +109,10 @@ Replaces a toaster oven and air fryer. 0.6 cu ft fits a 4-pound chicken or 12-in
 
 ## Bottom Line
 
-**Best all-around:** [Cosori Pro II 5.8qt](https://www.amazon.com/dp/B08B7D3M7B?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($100)
-**For families:** [Ninja Foodi 10qt](https://www.amazon.com/dp/B08LYYQT8C?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($150)
-**Budget pick:** [Instant Vortex Plus 6qt](https://www.amazon.com/dp/B07V3ZCH5G?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($70 on sale)
-**Toaster oven replacement:** [Cuisinart TOA-60](https://www.amazon.com/dp/B00CPCUNCG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($180)
+**Best all-around:** <a href="https://www.amazon.com/dp/B08B7D3M7B?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Cosori Pro II 5.8qt</a> ($100)
+**For families:** <a href="https://www.amazon.com/dp/B08LYYQT8C?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Ninja Foodi 10qt</a> ($150)
+**Budget pick:** <a href="https://www.amazon.com/dp/B07V3ZCH5G?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Instant Vortex Plus 6qt</a> ($70 on sale)
+**Toaster oven replacement:** <a href="https://www.amazon.com/dp/B00CPCUNCG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Cuisinart TOA-60</a> ($180)
 
 ## FAQ
 

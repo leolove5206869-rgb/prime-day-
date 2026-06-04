@@ -61,7 +61,7 @@ The Ring Pro 2 has been my daily driver for three months. It's not perfect, but 
 
 **The bad:** It's wired-only. If you don't have existing doorbell wiring, you can't use it. The $40/year subscription is almost mandatory — without it, you get live view only, no recording. The wedge kit is plastic and feels cheap for a $230 product.
 
-**Price:** $200-230. [Buy on Amazon →](https://www.amazon.com/dp/B08DJ9DB5F?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $200-230. <a href="https://www.amazon.com/dp/B08DJ9DB5F?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Subscription:** $40/year (Ring Protect Basic) for recording.
 **Verdict:** The best all-around video doorbell if you have existing wiring and don't mind a subscription.
 
@@ -73,7 +73,7 @@ The Nest Doorbell has the best person/package/animal/vehicle detection of anythi
 
 **The bad:** Battery life is the worst of any model tested. With moderate traffic (5-10 events/day), I got 3-4 weeks between charges. The claimed "2-6 months" requires ultralight traffic and ideal conditions. The field of view is vertical (145° with 3:2 aspect ratio) — you'll see packages on the ground clearly, but you won't see people approaching from the sides. And Google's $60/year Nest Aware is more expensive than Ring's equivalent.
 
-**Price:** $180 (battery), $230 (wired). [Buy on Amazon →](https://www.amazon.com/dp/B09GZQ1MHC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $180 (battery), $230 (wired). <a href="https://www.amazon.com/dp/B09GZQ1MHC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Subscription:** $60-120/year (Nest Aware).
 **Verdict:** Buy this if you're in the Google ecosystem and want the best AI detection. Just budget for a second battery so you can swap while charging.
 
@@ -85,7 +85,7 @@ The Eufy S220 proves you don't need a subscription for a good video doorbell. 2K
 
 **The bad:** The app is not as polished as Ring or Nest. The notification delay is 2-3 seconds longer (doorbell rings, your phone buzzes 4 seconds later). The night vision is adequate but doesn't have the HDR clarity of the Ring Pro 2. Customer support is Amazon-only (Eufy has no direct phone or chat).
 
-**Price:** $90-160 (depending on HomeBase bundle). [Buy on Amazon →](https://www.amazon.com/dp/B081C4JN51?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $90-160 (depending on HomeBase bundle). <a href="https://www.amazon.com/dp/B081C4JN51?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Subscription:** $0.
 **Verdict:** The smartest buy for most people. You lose some polish but save $40+/year forever.
 
@@ -97,7 +97,7 @@ At $50, the Wyze Video Doorbell Pro is somehow not terrible. It's not great, but
 
 **The bad:** Motion detection is inconsistent. On a busy street, you'll either get 50 false alerts a day or miss real events if you dial the sensitivity down. Night vision is grainy — usable but not secure. The plastic build feels cheap in hand. And at $50, I question long-term reliability — Wyze has a track record of discontinuing products and their cloud-dependent features.
 
-**Price:** $50-65. [Buy on Amazon →](https://www.amazon.com/dp/B0FS1Y25QZ?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $50-65. <a href="https://www.amazon.com/dp/B0FS1Y25QZ?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Subscription:** $0 (basic), $15/year (Cam Plus).
 **Verdict:** If your budget is tight, this works. Just know you're compromising on reliability.
 
@@ -126,10 +126,10 @@ At $50, the Wyze Video Doorbell Pro is somehow not terrible. It's not great, but
 
 A video doorbell is one of those products where the subscription cost often exceeds the hardware cost within 2 years. Do the math before buying.
 
-**If you want the best:** [Ring Pro 2](https://www.amazon.com/dp/B09W2H78S6?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($230 + $40/yr). It's the most complete package.
-**If you hate subscriptions:** [Eufy S220](https://www.amazon.com/dp/B08C6X5LQC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($90 + $0/yr). Saves you $40 every year.
-**If you're on a budget:** [Wyze Video Doorbell Pro](https://www.amazon.com/dp/B0BD6Z3WJG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($50). It works, but lower your expectations.
-**If you're in the Google ecosystem:** [Nest Doorbell Battery](https://www.amazon.com/dp/B09GTWX3ML?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($180). Best AI detection, worst battery life.
+**If you want the best:** <a href="https://www.amazon.com/dp/B09W2H78S6?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Ring Pro 2</a> ($230 + $40/yr). It's the most complete package.
+**If you hate subscriptions:** <a href="https://www.amazon.com/dp/B08C6X5LQC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Eufy S220</a> ($90 + $0/yr). Saves you $40 every year.
+**If you're on a budget:** <a href="https://www.amazon.com/dp/B0BD6Z3WJG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Wyze Video Doorbell Pro</a> ($50). It works, but lower your expectations.
+**If you're in the Google ecosystem:** <a href="https://www.amazon.com/dp/B09GTWX3ML?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Nest Doorbell Battery</a> ($180). Best AI detection, worst battery life.
 
 ## Insider Tips Nobody Tells You
 

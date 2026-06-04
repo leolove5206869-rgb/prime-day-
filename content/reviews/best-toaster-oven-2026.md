@@ -64,7 +64,7 @@ The Breville Smart Oven Air Fryer Pro is the most expensive toaster oven I've te
 
 **The bad:** It's $280 — more than a full-size range oven. The UI has too many buttons (13 presets + temperature + time + toast shade + convection settings). The interior height limits some baking projects (tall loaf pans won't fit). The non-stick interior coating can peel after 2-3 years (I've seen reports). It's 19 inches deep — won't fit under standard 18-inch cabinets.
 
-**Price:** $250-280. [Buy on Amazon →](https://www.amazon.com/dp/B01N5UPTZS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $250-280. <a href="https://www.amazon.com/dp/B01N5UPTZS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** If you cook often and have the counter space, this replaces your toaster, air fryer, and full oven for 80% of cooking tasks.
 
 ### 2. Cuisinart Chef's Convection TOB-260N1 — Best Value ($140)
@@ -75,7 +75,7 @@ The Cuisinart Chef's Convection is what you buy when you want serious toaster ov
 
 **The bad:** 0.5 cu ft feels smaller than the Breville's 0.6 — a 12-inch pizza is tight. The toast function needs manual monitoring (the timer runs down but doesn't stop browning — you need to press stop). The crumb tray is small and fills quickly. The air fry function works but the basket is tiny (fits 6 wings). At 22 lb, moving it is a chore.
 
-**Price:** $130-150. [Buy on Amazon →](https://www.amazon.com/dp/B01M0AWSJX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $130-150. <a href="https://www.amazon.com/dp/B01M0AWSJX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best value in countertop ovens. 85% of the Breville's performance at 50% of the price.
 
 ### 3. Panasonic FlashXpress NB-G110P — Best Compact ($100)
@@ -86,7 +86,7 @@ The Panasonic FlashXpress is a revelation in the compact category. It's small (1
 
 **The bad:** It's small — fits 4 slices of toast, a 9-inch pizza, or 6 chicken wings. The cooking functions are limited (toast, pizza, bake, reheat — no broil, no convection, no air fry). The timer maxes out at 30 minutes (you can't slow-cook or roast for an hour). The exterior gets hot (the double-wall construction helps but the top surface reaches 180F). No interior light.
 
-**Price:** $90-110. [Buy on Amazon →](https://www.amazon.com/dp/B07JX1Z6LS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $90-110. <a href="https://www.amazon.com/dp/B07JX1Z6LS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best toaster oven for 1-2 people who toast bread and reheat leftovers. Not for serious cooking.
 
 ### 4. Hamilton Beach Sure-Crisp — Best Budget ($50)
@@ -97,7 +97,7 @@ The Hamilton Beach Sure-Crisp is a $50 toaster oven that works. It's not good, i
 
 **The bad:** The toast is uneven — the center slice might be pale while the edge slice is overdone (this is a small oven problem, not specific to Hamilton Beach). The temperature dial is not accurate (set 350F, get ~325-375F depending on location in the oven). The exterior gets hot enough to burn you (top reaches 200F during use). No convection, no interior light, no features.
 
-**Price:** $40-55. [Buy on Amazon →](https://www.amazon.com/dp/B0GPZ9N38Z?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $40-55. <a href="https://www.amazon.com/dp/B0GPZ9N38Z?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The right purchase if you have $50 budget or need a temporary oven. You'll want to upgrade within 2 years.
 
 ## Comparison Table
@@ -123,10 +123,10 @@ The Hamilton Beach Sure-Crisp is a $50 toaster oven that works. It's not good, i
 
 ## Bottom Line
 
-**Best overall:** [Breville Smart Oven Air Fryer Pro](https://www.amazon.com/dp/B01N5UPTZS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($280)
-**Best value:** [Cuisinart Chef's Convection TOB-260N1](https://www.amazon.com/dp/B01M0AWSJX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($140)
-**Best compact:** [Panasonic FlashXpress NB-G110P](https://www.amazon.com/dp/B07JX1Z6LS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($100)
-**Best budget:** [Hamilton Beach Sure-Crisp](https://www.amazon.com/dp/B0GPZ9N38Z?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($50)
+**Best overall:** <a href="https://www.amazon.com/dp/B01N5UPTZS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Breville Smart Oven Air Fryer Pro</a> ($280)
+**Best value:** <a href="https://www.amazon.com/dp/B01M0AWSJX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Cuisinart Chef's Convection TOB-260N1</a> ($140)
+**Best compact:** <a href="https://www.amazon.com/dp/B07JX1Z6LS?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Panasonic FlashXpress NB-G110P</a> ($100)
+**Best budget:** <a href="https://www.amazon.com/dp/B0GPZ9N38Z?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Hamilton Beach Sure-Crisp</a> ($50)
 
 ## Insider Tips Nobody Tells You
 

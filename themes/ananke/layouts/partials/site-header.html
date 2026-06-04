@@ -1,0 +1,12 @@
+<header class="bg-dark-blue white pv3 ph4">
+  <div class="mw9 center flex items-center justify-between">
+    <a href="{{ site.Home.RelPermalink }}" class="white f3 fw2 no-underline">{{ site.Title }}</a>
+    {{ with site.Menus.main }}
+    <nav>
+      {{ range . }}
+      <a class="white-80 hover-white no-underline ml3 f5" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  </div>
+</header>

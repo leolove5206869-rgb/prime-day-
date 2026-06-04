@@ -58,7 +58,7 @@ The Bambino Plus is the smartest design in home espresso. It's not the most "ser
 
 **The bad:** The 54mm portafilter instead of the standard 58mm means fewer après-market accessories. The drip tray is tiny (you'll empty it every 3-4 shots). The water tank is inconvenient to remove for refilling. No three-way solenoid valve means you'll get some dripping after the shot. And the plastic body won't last 20 years like a Gaggia Classic.
 
-**Price:** $400. [Buy on Amazon →](https://www.amazon.com/dp/B07JVD78TT?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $400. <a href="https://www.amazon.com/dp/B07JVD78TT?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** This is the one to buy. Pair it with a decent grinder and you're making better espresso than most cafes.
 
 ### 2. Gaggia Classic Pro — Best for Tinkerers ($450)
@@ -69,7 +69,7 @@ The Gaggia Classic Pro is practically unchanged since 1991, which tells you some
 
 **The bad:** Out of the box, it's mediocre. The OPV is set to 12+ bars from the factory (too high for proper extraction — you need to swap to a 9-bar spring for $5). No temperature control without adding a $100 PID mod. The steam power is weak compared to the Bambino Plus. Heat-up time is 15+ minutes. You'll need to temperature surf to get consistent shots.
 
-**Price:** $450. [Buy on Amazon →](https://www.amazon.com/dp/B086H24F5F?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $450. <a href="https://www.amazon.com/dp/B086H24F5F?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** A project. Buy this if you want to learn espresso machine mechanics and are willing to mod it. Skip if you just want good espresso with minimum effort.
 
 ### 3. De'Longhi Dedica EC685 — Best for Beginners ($280)
@@ -80,7 +80,7 @@ The Dedica is a slim, approachable machine that makes decent milk drinks with mi
 
 **The bad:** The 51mm portafilter is non-standard. The steam wand can't be upgraded to a proper commercial tip without major modification. Internal components are plastic — it's not built to last 10 years. Temperature stability is the worst in this roundup (±5°F across shots). The drip tray is comically small.
 
-**Price:** $250-300. [Buy on Amazon →](https://www.amazon.com/dp/B0BFM9FP4N?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $250-300. <a href="https://www.amazon.com/dp/B0BFM9FP4N?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** The best "I just want a latte" machine. Not for espresso purists.
 
 ### 4. CASABREWS 5700 — Best Value ($140)
@@ -91,7 +91,7 @@ The CASABREWS 5700 is a sleeper. For $140, this machine pulls shots that beat th
 
 **The bad:** Build quality is questionable — the housing rattles, the buttons feel cheap, and the steam control knob is a thin plastic piece that will eventually break. The pressurized baskets are mediocre — you need to buy single-wall baskets (which fit standard 58mm sizes) to get real crema. No three-way solenoid valve. Customer support is Amazon-only.
 
-**Price:** $140. [Buy on Amazon →](https://www.amazon.com/dp/B0DHJ9SZ81?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1)
+**Price:** $140. <a href="https://www.amazon.com/dp/B0DHJ9SZ81?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
 **Verdict:** Best espresso machine under $200 by a wide margin. But you're gambling on longevity.
 
 ## Comparison Table
@@ -118,11 +118,11 @@ The CASABREWS 5700 is a sleeper. For $140, this machine pulls shots that beat th
 
 Good espresso at home has three requirements: freshly roasted beans (2-4 weeks off-roast), a burr grinder (Baratza Encore ESP or better), and a machine with temperature control. If you skip any of these, your espresso will disappoint.
 
-**If you want the best espresso:** [Breville Bambino Plus](https://www.amazon.com/dp/B07S6XMJMX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($400) + [Baratza Encore ESP](https://www.amazon.com/dp/B0BF2ZP1Y4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($200). Total $600, and it matches $1,500 setups for milk drinks.
+**If you want the best espresso:** <a href="https://www.amazon.com/dp/B07S6XMJMX?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Breville Bambino Plus</a> ($400) + <a href="https://www.amazon.com/dp/B0BF2ZP1Y4?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Baratza Encore ESP</a> ($200). Total $600, and it matches $1,500 setups for milk drinks.
 
-**If you want a project:** [Gaggia Classic Pro](https://www.amazon.com/dp/B07PTC36PB?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($450) + 9-bar spring mod ($5) + PID kit ($100). Add a grinder ($200) and you're at $755 for a machine that will last 20 years.
+**If you want a project:** <a href="https://www.amazon.com/dp/B07PTC36PB?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Gaggia Classic Pro</a> ($450) + 9-bar spring mod ($5) + PID kit ($100). Add a grinder ($200) and you're at $755 for a machine that will last 20 years.
 
-**If you just want lattes:** [De'Longhi Dedica](https://www.amazon.com/dp/B07Q6J6GWM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1) ($280). It's good enough for milk drinks and takes up no counter space.
+**If you just want lattes:** <a href="https://www.amazon.com/dp/B07Q6J6GWM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">De'Longhi Dedica</a> ($280). It's good enough for milk drinks and takes up no counter space.
 
 ## Insider Tips Nobody Tells You
 

@@ -1,0 +1,12 @@
+{{ define "title" }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<article class="mw8 center ph4 pv4">
+  <h1 class="f2 lh-title">{{ .Title }}</h1>
+  {{ if .Params.show_reading_time | default site.Params.show_reading_time }}
+  <p class="f6 silver mb4">{{ .ReadingTime }} min read</p>
+  {{ end }}
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
