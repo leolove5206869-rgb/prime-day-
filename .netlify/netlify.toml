@@ -1,13 +1,21 @@
 plugins = []
-headers = []
 redirects = []
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' https://unpkg.com https://identity.netlify.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://*.netlify.com https://*.netlify.app; frame-src 'self' https://identity.netlify.com"
 
 [functions]
 
 [functions."*"]
 
 [build]
-publish = "/Users/shihaoran/prime-day-review/prime-day-review-hugo/public"
+publish = "public"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "hugo"
