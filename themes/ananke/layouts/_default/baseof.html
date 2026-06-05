@@ -7,7 +7,7 @@
   <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="stylesheet" href="/css/custom.css">
+  <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
   <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css">
   {{ block "head" . }}{{ end }}
 </head>

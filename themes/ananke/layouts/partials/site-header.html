@@ -4,7 +4,7 @@
     {{ with site.Menus.main }}
     <nav>
       {{ range . }}
-      <a class="white-80 hover-white no-underline ml3 f5" href="{{ .URL }}">{{ .Name }}</a>
+      <a class="white-80 hover-white no-underline ml3 f5" href="{{ .URL | relURL }}">{{ .Name }}</a>
       {{ end }}
     </nav>
     {{ end }}

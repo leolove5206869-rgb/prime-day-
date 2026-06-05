@@ -1,4 +1,5 @@
-baseURL = 'https://shiny-madeleine-b8a16f.netlify.app/'
+baseURL = 'https://leolove5206869-rgb.github.io/prime-day-/'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'HomeKitchen Picks — Honest Reviews for Your Home'
 theme = 'ananke'
