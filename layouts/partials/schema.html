@@ -1,4 +1,3 @@
-<!-- GEO-optimized JSON-LD Schema with Speakable, FAQPage, and enhanced Product markup -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -25,15 +24,7 @@
         "@id": "{{ .Site.BaseURL }}#organization"
       },
       "inLanguage": "en-US",
-      "description": "{{ .Site.Params.description }}",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "{{ .Site.BaseURL }}search/?q={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      }
+      "description": "{{ .Site.Params.description }}"
     },
     {{- if .IsPage }}
     {{- if eq .Type "review" }}
@@ -41,7 +32,7 @@
       "@type": "Product",
       "@id": "{{ .Permalink }}#product",
       "name": "{{ .Title }}",
-      "description": "{{ .Params.summary | default .Summary }}",
+      "description": "{{ .Summary }}",
       "url": "{{ .Permalink }}",
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -49,11 +40,12 @@
       },
       "brand": {
         "@type": "Brand",
-        "name": "{{ .Params.brand | default "Various" }}"
+        "name": "{{ with .Params.brand }}{{ . }}{{ else }}Multiple{{ end }}"
       },
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "USD",
+        "offerCount": "1",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
       },
@@ -61,7 +53,7 @@
         "@type": "Review",
         "reviewRating": {
           "@type": "Rating",
-          "ratingValue": "{{ .Params.rating | default "0" }}",
+          "ratingValue": "{{ .Params.rating | default "4.0" }}",
           "bestRating": "5"
         },
         "author": {
@@ -91,14 +83,60 @@
         "@id": "{{ .Permalink }}"
       },
       "wordCount": {{ .WordCount }},
-      "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
       "inLanguage": "en-US",
       "speakable": {
         "@type": "SpeakableSpecification",
-        "cssSelector": [".article-summary", ".faq-section"]
+        "cssSelector": [".article-summary", "#quick-verdict"]
       }
     }
     {{- end }}
   ]
 }
 </script>
+{{- if and .IsPage (eq .Type "review") }}
+{{- $hasFAQ := false }}
+{{- if in .RawContent "## FAQ" }}{{ $hasFAQ = true }}{{ end }}
+{{- if $hasFAQ }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- $faqQA := split .RawContent "## FAQ" }}
+    {{- if gt (len $faqQA) 1 }}
+      {{- $faqContent := index $faqQA 1 }}
+      {{- $questions := split $faqContent "**" }}
+      {{- $count := 0 }}
+      {{- range $q := $questions }}
+        {{- $q = trim $q "\n " }}
+        {{- if and $q (gt (len $q) 10) (not (in $q "---")) (not (in $q "&")) }}
+          {{- $parts := split $q "**" }}
+          {{- if gt (len $parts) 1 }}
+            {{- $question := trim (index $parts 0) " \n" }}
+            {{- $answer := "" }}
+            {{- if gt (len $parts) 1 }}
+              {{- $answer = trim (index $parts 1) " \n" }}
+              {{- $answer = replace $answer "\n" " " }}
+              {{- $answer = truncate 300 $answer }}
+            {{- end }}
+            {{- if and $question $answer (gt (len $question) 5) }}
+              {{- if gt $count 0 }},{{ end }}
+              {
+                "@type": "Question",
+                "name": "{{ $question | plainify }}",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "{{ $answer | plainify }}"
+                }
+              }
+              {{- $count = add $count 1 }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
+{{- end }}

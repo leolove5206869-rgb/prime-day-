@@ -1,0 +1,20 @@
+{{ define "title" }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<article class="mw8 center ph4 pv4">
+  {{ partial "breadcrumb.html" . }}
+  <h1 class="f2 lh-title">{{ .Title }}</h1>
+  {{ with .Content }}
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray mb4">
+    {{ . }}
+  </div>
+  {{ end }}
+  {{ range .Pages }}
+  <div class="mb4 pb4 bb b--light-gray">
+    <h2 class="f3 mb2"><a href="{{ .RelPermalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h2>
+    <p class="f5 silver mb2">{{ .Date.Format "January 2, 2006" }}</p>
+    <p class="f5 lh-copy nested-copy-line-height">{{ .Summary | truncate 200 }}</p>
+    <a href="{{ .RelPermalink }}" class="f6 link blue hover-dark-blue">Read review →</a>
+  </div>
+  {{ end }}
+</article>
+{{ end }}

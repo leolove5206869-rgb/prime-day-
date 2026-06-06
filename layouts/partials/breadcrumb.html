@@ -1,0 +1,52 @@
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol vocab="https://schema.org/" typeof="BreadcrumbList">
+    <li property="itemListElement" typeof="ListItem">
+      <a property="item" typeof="WebPage" href="{{ .Site.BaseURL }}">
+        <span property="name">Home</span>
+      </a>
+      <meta property="position" content="1">
+    </li>
+    {{- if .Parent -}}
+    {{- if ne .Parent .Site.Home -}}
+    <li property="itemListElement" typeof="ListItem">
+      <a property="item" typeof="WebPage" href="{{ .Parent.RelPermalink }}">
+        <span property="name">{{ .Parent.Title }}</span>
+      </a>
+      <meta property="position" content="2">
+    </li>
+    {{- end -}}
+    {{- end -}}
+    <li property="itemListElement" typeof="ListItem" aria-current="page">
+      <span property="name">{{ .Title }}</span>
+      <meta property="position" content="{{ if and .Parent (ne .Parent .Site.Home) }}3{{ else }}2{{ end }}">
+    </li>
+  </ol>
+</nav>
+<style>
+.breadcrumb ol {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.875rem;
+}
+.breadcrumb li {
+  display: inline;
+}
+.breadcrumb li+li:before {
+  content: "\203A";
+  margin: 0 0.5rem;
+  color: #9ca3af;
+}
+.breadcrumb a {
+  color: #2563eb;
+  text-decoration: none;
+}
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+.breadcrumb [aria-current] {
+  color: #6b7280;
+}
+</style>
