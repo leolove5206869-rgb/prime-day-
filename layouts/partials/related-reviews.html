@@ -1,0 +1,62 @@
+{{- if and (eq .Type "review") .IsPage }}
+{{- $current := . }}
+{{- $related := slice }}
+{{- /* Keyword groups: map category keywords to their reviews */}}
+{{- $keywords := dict
+  "coffee" (slice "coffee" "espresso" "french" "grinder" "brew")
+  "knife" (slice "knife" "knives" "chef" "cutting" "blade")
+  "cooking" (slice "air fryer" "toaster" "slow cooker" "oven" "bake" "roast")
+  "blender" (slice "blender" "smoothie" "mix" "blend")
+  "smart" (slice "doorbell" "smart" "ring" "security" "camera")
+}}
+{{- /* Find which keyword groups this page belongs to */}}
+{{- $pageTitle := lower .Title }}
+{{- $pageCategories := slice }}
+{{- range $group, $groupKeywords := $keywords }}
+  {{- range $groupKeywords }}
+    {{- if in $pageTitle . }}
+      {{- $pageCategories = $pageCategories | append $group }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- /* Collect related pages from same categories */}}
+{{- $seen := slice $current.RelPermalink }}
+{{- range where $current.Site.Pages "Type" "review" }}
+  {{- if and (ne .RelPermalink $current.RelPermalink) (ne .Title "") }}
+    {{- $otherTitle := lower .Title }}
+    {{- range $pageCategories }}
+      {{- $groupKeywords := index $keywords . }}
+      {{- range $groupKeywords }}
+        {{- if and (in $otherTitle .) (not (in $seen $current.RelPermalink)) }}
+          {{- $related = $related | append . }}
+          {{- $seen = $seen | append .RelPermalink }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- /* Fallback: if no keyword match, show any other reviews */}}
+{{- if lt (len $related) 2 }}
+  {{- $related = slice }}
+  {{- range where $current.Site.Pages "Type" "review" }}
+    {{- if and (ne .RelPermalink $current.RelPermalink) (lt (len $related) 4) }}
+      {{- $related = $related | append . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if gt (len $related) 0 }}
+<div class="mt5 pt4 bt b--light-gray">
+  <h2 class="f3 mb3">Related Reviews</h2>
+  <div class="flex flex-wrap">
+    {{- range $related }}
+    <div class="w-100 w-50-m mb3 pr3-m">
+      <article class="bg-white ba b--light-gray br2 pa3 h-100">
+        <h3 class="f5 mt0 mb2"><a href="{{ .RelPermalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h3>
+        {{ with .Summary }}<p class="f6 lh-copy mid-gray mv0">{{ . | truncate 120 }}</p>{{ end }}
+      </article>
+    </div>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+{{- end }}
