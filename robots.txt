@@ -20,4 +20,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://shiny-madeleine-b8a16f.netlify.app/sitemap.xml
+Sitemap: https://homekitchenpicks.com/sitemap.xml
