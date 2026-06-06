@@ -7,7 +7,7 @@ layout = 'single'
 summary = "We spent 90 days cooking with 5 popular chef's knives under $100. Here's the one we kept reaching for."
 affiliate_link = ''
 rating = 4.5
-amazon_asins = ["B000638D32", "B00H0GL7HC", "B002R1CGV6", "B0848MVJ53"]
+affiliate_ids = ["B000638D32", "B00H0GL7HC", "B002R1CGV6", "B0848MVJ53"]
 +++
 
 ## Quick Verdict
@@ -56,7 +56,7 @@ The Fibrox Pro is the most recommended chef's knife on the internet, and after 9
 
 **The bad:** It doesn't come sharp. Out of the box, it couldn't slice a tomato cleanly. 10 minutes on a whetstone fixed that. The blade is stamped (not forged), which doesn't matter for performance but matters to some people.
 
-**Price:** $45. <a href="https://www.amazon.com/dp/B000638D32?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $45. <a href="https://www.amazon.com/dp/B000638D32?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** This is the answer. Spend the $55 you saved on a good cutting board.
 
 ### 2. Tojiro DP 8" — Best Japanese ($75)
@@ -67,7 +67,7 @@ The Tojiro DP is the cheapest way to get a proper Japanese chef's knife. VG-10 s
 
 **The bad:** The handle is cheap pakkawood that will eventually crack if you don't oil it. The blade is more brittle — don't hack through chicken bones or you'll chip it. And at 8.2 oz, it's noticeably lighter than the Victorinox (6.4 oz), which some people find unsettling.
 
-**Price:** $75. <a href="https://www.amazon.com/dp/B00H0GL7HC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $75. <a href="https://www.amazon.com/dp/B00H0GL7HC?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** Buy this if you value sharpness over durability and you're willing to learn whetstone sharpening.
 
 ### 3. Mercer Culinary Renaissance 8" — Best Value ($35)
@@ -78,7 +78,7 @@ The Mercer Culinary is what culinary schools issue to students who can't afford 
 
 **The bad:** The fit and finish are rougher. The spine isn't rounded (you can feel the corners). The blade stamping is less consistent. For a home cook, these are irrelevant. For a professional line cook, they'd pay the extra $10 for the Victorinox.
 
-**Price:** $35. <a href="https://www.amazon.com/dp/B002R1CGV6?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $35. <a href="https://www.amazon.com/dp/B002R1CGV6?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The smart buy. Put the $10 toward a honing rod.
 
 ### 4. Dalstrong Gladiator 8" — Best Looking ($85)
@@ -89,7 +89,7 @@ The Dalstrong Gladiator is a knife you buy because it looks cool. And it does �
 
 **The bad:** The edge retention is worse than the Tojiro and not noticeably better than the Victorinox. The Damascus pattern is cosmetic. And at $85, you're paying $40 for looks and $45 for performance. The Gladiator is a fine knife; it's just not $40 better than the Victorinox.
 
-**Price:** $85. <a href="https://www.amazon.com/dp/B0848MVJ53?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $85. <a href="https://www.amazon.com/dp/B0848MVJ53?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** Buy it as a gift. For yourself, get the Victorinox or Tojiro.
 
 ## Comparison Table
@@ -133,4 +133,4 @@ Never. Dishwasher detergent is abrasive and will dull the edge. High heat can wa
 
 ---
 
-*Prices and availability subject to change. As an Amazon Associate we earn from qualifying purchases.*
+*Prices and availability subject to change. We may earn a commission through affiliate links.*

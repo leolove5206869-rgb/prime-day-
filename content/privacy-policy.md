@@ -23,17 +23,15 @@ We do not collect personal information unless you voluntarily provide it through
 
 We only use this information to respond to your inquiries. We do not sell, rent, or share your personal information with third parties for their marketing purposes.
 
-## Amazon Associates (Affiliate Disclosure)
+## Affiliate Disclosure
 
-HomeKitchen Picks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+HomeKitchen Picks participates in affiliate marketing programs (including Awin and other partner networks). When you click on an affiliate link on our site and make a purchase, we may earn a small commission at no extra cost to you.
 
 **How affiliate links work:**
 - When you click on an affiliate link on our site, a cookie is placed in your browser
-- If you make a qualifying purchase on Amazon within a specified time period (typically 24 hours), we may earn a small commission
-- The commission is paid by Amazon — **you pay the same price** as any other customer
-- Amazon's use of your information is governed by their Privacy Policy, not ours
-
-We also participate in other affiliate programs (including but not limited to Walmart, Target, and direct manufacturer programs). The same principles apply — we earn a commission at no extra cost to you.
+- If you make a qualifying purchase within the specified attribution period, we may earn a commission
+- The commission is paid by the merchant or network — **you pay the same price** as any other customer
+- Your information is governed by the respective merchant's Privacy Policy, not ours
 
 ## Cookies
 
@@ -48,8 +46,8 @@ You can disable cookies in your browser settings. However, affiliate links will 
 
 We may use the following third-party services:
 - **Web analytics** (e.g., Google Analytics) — to understand site traffic patterns
-- **Amazon Associates Program** — for affiliate link management
-- **Netlify** — for website hosting
+- **Awin and other affiliate networks** — for affiliate link management
+- **GitHub Pages / Cloudflare** — for website hosting and CDN
 
 Each of these services has its own privacy policy governing data collection and use.
 
@@ -88,4 +86,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-*This Privacy Policy covers the website operated at https://shiny-madeleine-b8a16f.netlify.app/*
+*This Privacy Policy covers the website operated at https://homekitchenpicks.com/*

@@ -28,7 +28,7 @@ We're a small independent team of home cooks and kitchen enthusiasts based in th
 
 ## How We're Funded
 
-This site is funded entirely through affiliate commissions (primarily Amazon Associates). When you buy something through our links, we may earn a small commission at no extra cost to you. **This never affects our recommendations** — if a product is bad, we'll tell you. We'd rather lose a commission than lose your trust.
+This site is funded entirely through affiliate commissions (including Awin and other partner programs). When you buy something through our links, we may earn a small commission at no extra cost to you. **This never affects our recommendations** — if a product is bad, we'll tell you. We'd rather lose a commission than lose your trust.
 
 ## Editorial Standards
 

@@ -7,7 +7,7 @@ layout = 'single'
 summary = "We tested 6 knife sets for 90 days to find out if you should buy a set or just get one good chef's knife."
 brand = "Multiple"
 rating = 4.5
-amazon_asins = ["B0GTMY58YY", "B005P0OKMO", "B00GIBKC3K", "B07CX7B3W9"]
+affiliate_ids = ["B0GTMY58YY", "B005P0OKMO", "B00GIBKC3K", "B07CX7B3W9"]
 affiliate_link = ""
 image = ""
 +++
@@ -57,7 +57,7 @@ The Wusthof Gourmet is the cheapest way to get Wusthof-quality blade steel. It's
 
 **The bad:** The steak knives are the same X50CrMoV15 as the rest — they'll dull faster than dedicated steak knife steel. The honing steel is short (8 inches vs recommended 10+ for the chef's knife). The polypropylene handle feels "cheap Wusthof" — functional but not the classic look. Price is right at $200 (often cheaper at Amazon).
 
-**Price:** $180-200. <a href="https://www.amazon.com/dp/B0GTMY58YY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $180-200. <a href="https://www.amazon.com/dp/B0GTMY58YY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The best knife set under $200, period.
 
 ### 2. Mercer Culinary 16-piece — Best Value ($110)
@@ -68,7 +68,7 @@ Mercer is what culinary schools issue to students. The 16-piece set covers every
 
 **The bad:** The paring knife blade is inconsistently ground (I had to correct the edge bevel). The steak knives are only 4 inches — awkward for larger cuts. The bread knife serrations are aggressive and can tear soft bread. The block is basic MDF with a clear coat that chips off. Fit and finish on the non-chef knives is noticeably rougher than Wusthof.
 
-**Price:** $100-120. <a href="https://www.amazon.com/dp/B005P0OKMO?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $100-120. <a href="https://www.amazon.com/dp/B005P0OKMO?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The smart buy. You get 90% of the performance for 55% of the price.
 
 ### 3. Cuisinart C77SS-15pc — Best Budget ($60)
@@ -79,7 +79,7 @@ The Cuisinart C77SS is what you buy when you need a knife set for under $100. It
 
 **The bad:** The blades are thick behind the edge — the chef's knife wedges in carrots and onions. Edge retention is mediocre (2-3 weeks before needing sharpening). The "sharpening rod" is a steel rod without a ceramic or diamond surface — it realigns the edge but does not actually sharpen. The steak knives are stamped thin and flex alarmingly. The block takes up significant counter space.
 
-**Price:** $55-70. <a href="https://www.amazon.com/dp/B00GIBKC3K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $55-70. <a href="https://www.amazon.com/dp/B00GIBKC3K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** Perfect for a first apartment, dorm, or vacation home. Not for serious cooking.
 
 ### 4. Zwilling J.A. Henckels Pro 10-piece — Best Mid-Range ($180)
@@ -90,7 +90,7 @@ The Zwilling Pro 10-piece is the set you buy when you want the iconic three-dot 
 
 **The bad:** Only 10 pieces — and includes a steak knife set that accounts for 4 of them. You get: 2 steak knives, paring, utility, chef (10-inch), bread, shears, honing steel, kitchen shears, block. That's really 6 useful knives counting the block. The 10-inch chef's knife is intimidating for smaller hands. The paring knife is narrower than ideal for tourne cuts. Price is $180 but the useful knife count is worse than Mercer at $110.
 
-**Price:** $170-190. <a href="https://www.amazon.com/dp/B07CX7B3W9?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $170-190. <a href="https://www.amazon.com/dp/B07CX7B3W9?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** A good set, but the Wusthof Gourmet gives you more useful knives for the same money.
 
 ## Comparison Table
@@ -137,4 +137,4 @@ Magnetic strip: frees counter space, keeps knives visible, allows air circulatio
 
 ---
 
-*Prices and availability subject to change. As an Amazon Associate we earn from qualifying purchases.*
+*Prices and availability subject to change. We may earn a commission through affiliate links.*

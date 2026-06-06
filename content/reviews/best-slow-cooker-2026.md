@@ -7,7 +7,7 @@ layout = 'single'
 summary = "We tested 6 slow cookers and multi-cookers over 60 days. The InstantPot isn't always the answer."
 brand = "Multiple"
 rating = 4.5
-amazon_asins = ["B00FLYWNYQ", "B0D2LVWC7G", "B0FJ9YL548", "B07BB9ZQDY"]
+affiliate_ids = ["B00FLYWNYQ", "B0D2LVWC7G", "B0FJ9YL548", "B07BB9ZQDY"]
 affiliate_link = ""
 image = ""
 +++
@@ -65,7 +65,7 @@ The Instant Pot Duo Plus is the standard for a reason. It's not the best at ever
 
 **The bad:** The slow cook function runs at 200-210F on "Low" — hotter than a dedicated slow cooker's 180-190F. This means food can overcook on long (8+ hour) recipes. The steam release valve lets out a lot of vapor during natural release. The control panel has 17 buttons for 7 functions — overly complex. The sealing ring absorbs smells (buy a second ring for savory vs sweet).
 
-**Price:** $80-100. <a href="https://www.amazon.com/dp/B00FLYWNYQ?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $80-100. <a href="https://www.amazon.com/dp/B00FLYWNYQ?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The safest recommendation. Buy one ring for stews and one for yogurt.
 
 ### 2. Crock-Pot 7qt Programmable — Best Slow Cooker ($50)
@@ -76,7 +76,7 @@ If your primary use case is low-and-slow cooking (chili, pulled pork, beans), a 
 
 **The bad:** It only slow cooks — no pressure, no sauté, no steam. You need a separate pan for browning meat before adding it. The stoneware insert is heavy (5+ lb empty). No delay start timer on the base model. The lid seals tightly enough that you need a knife to pry it open after cooking (that's actually good for heat retention, but annoying).
 
-**Price:** $40-60. <a href="https://www.amazon.com/dp/B0D2LVWC7G?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $40-60. <a href="https://www.amazon.com/dp/B0D2LVWC7G?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The right choice if you slow cook 2+ times per week and don't need pressure cooking.
 
 ### 3. Ninja Foodi 9-in-1 6.5qt — Best Multi-Function ($160)
@@ -87,7 +87,7 @@ The Ninja Foodi is the only multi-cooker I've tested that's genuinely excellent 
 
 **The bad:** It's large — 15 inches tall with the crisping lid closed, barely fits under standard cabinets. The 6.5qt capacity shrinks to 4qt usable when air frying (you need headroom). The cook and crisp book has recipes that are poorly tested (chicken took 10 minutes longer than stated). Replacing the standard lid with the crisping lid requires storing both lids somewhere.
 
-**Price:** $150-180. <a href="https://www.amazon.com/dp/B0FJ9YL548?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $150-180. <a href="https://www.amazon.com/dp/B0FJ9YL548?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** The best all-in-one appliance on the market. Just make sure you have cabinet clearance.
 
 ### 4. Hamilton Beach Set & Forget 6qt — Best Simple Slow Cooker ($50)
@@ -98,7 +98,7 @@ The Hamilton Beach Set & Forget is what you buy for someone who doesn't want to 
 
 **The bad:** No timer (must be manually switched to Warm or turned off). No sauté function. The probe wire creates a gap when the lid is closed, allowing some steam to escape. The ceramic insert is heavy and hand-wash only. The "clip-tight" lid clips are plastic and will eventually break if you're aggressive.
 
-**Price:** $40-60. <a href="https://www.amazon.com/dp/B07BB9ZQDY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $40-60. <a href="https://www.amazon.com/dp/B07BB9ZQDY?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** Best for people who just want to throw ingredients in and walk away for 8 hours. The probe thermometer is a killer feature.
 
 ## Comparison Table
@@ -148,4 +148,4 @@ The silicone ring absorbs food odors (especially tomato and curry). Soak in whit
 
 ---
 
-*Prices and availability subject to change. As an Amazon Associate we earn from qualifying purchases.*
+*Prices and availability subject to change. We may earn a commission through affiliate links.*

@@ -18,11 +18,11 @@ HomeKitchen Picks provides honest, hands-on reviews of home and kitchen products
 
 ## Key Pages
 
-- Home page: https://shiny-madeleine-b8a16f.netlify.app/
-- All reviews: https://shiny-madeleine-b8a16f.netlify.app/reviews/
-- About us: https://shiny-madeleine-b8a16f.netlify.app/about/
-- Contact: https://shiny-madeleine-b8a16f.netlify.app/contact/
-- Privacy policy: https://shiny-madeleine-b8a16f.netlify.app/privacy-policy/
+- Home page: https://homekitchenpicks.com/
+- All reviews: https://homekitchenpicks.com/reviews/
+- About us: https://homekitchenpicks.com/about/
+- Contact: https://homekitchenpicks.com/contact/
+- Privacy policy: https://homekitchenpicks.com/privacy-policy/
 
 ## Editorial Principles
 

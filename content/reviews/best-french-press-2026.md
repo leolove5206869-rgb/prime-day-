@@ -7,7 +7,7 @@ layout = 'single'
 summary = "After testing 12 french presses side-by-side for a month, here are the 3 worth buying in 2026."
 affiliate_link = ''
 rating = 4.5
-amazon_asins = ["B078VPYHH2", "B07RJJ2SGG", "B0FLLFXZF5"]
+affiliate_ids = ["B078VPYHH2", "B07RJJ2SGG", "B0FLLFXZF5"]
 +++
 
 ## Quick Verdict
@@ -52,7 +52,7 @@ The glass carafe is borosilicate (not cheap soda-lime), so it handles thermal sh
 
 **The catch:** The glass carafe breaks if you tap it against the sink while washing. Order a replacement carafe at the same time and you won't be caught waiting.
 
-**Price:** $35-45 depending on size. <a href="https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $35-45 depending on size. <a href="https://www.amazon.com/dp/B078VPYHH2?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** There's nothing to improve. Buy this one.
 
 ### 2. Secura French Press (27oz) — Best Budget
@@ -63,7 +63,7 @@ The Secura does everything a french press should do and nothing it shouldn't. Th
 
 **Where it cuts corners:** The lid is plastic. The handle is welded on and can wobble if you torque it. The screen isn't as fine as Bodum's, so you'll get slightly more sediment at the bottom of your cup.
 
-**Price:** $25. <a href="https://www.amazon.com/dp/B07RJJ2SGG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $25. <a href="https://www.amazon.com/dp/B07RJJ2SGG?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** For $25, this is unbeatable. Buy it if you're rough on kitchen gear or you want to brew coffee and drink it over an hour instead of 15 minutes.
 
 ### 3. Espro P3 (32oz) — Best Splurge
@@ -74,7 +74,7 @@ It uses a double micro-filter (two mesh screens instead of one) that catches 99%
 
 **The trade-offs:** It's $80-90. The double filter makes cleanup slightly harder (you have to unscrew two screens). And the insulated carafe is heavier — 2.2 lb vs 1.1 lb for the Bodum.
 
-**Price:** $80-90. <a href="https://www.amazon.com/dp/B0FLLFXZF5?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Buy on Amazon →</a>
+**Price:** $80-90. <a href="https://www.amazon.com/dp/B0FLLFXZF5?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Check Price →</a>
 **Verdict:** If you drink coffee slowly or you hate sludge, this is worth every penny.
 
 ## Comparison Table
@@ -120,4 +120,4 @@ Yes — roughly 30-40% more caffeine than drip coffee. The mesh filter doesn't t
 
 ---
 
-*Prices and availability subject to change. As an Amazon Associate we earn from qualifying purchases.*
+*Prices and availability subject to change. We may earn a commission through affiliate links.*
