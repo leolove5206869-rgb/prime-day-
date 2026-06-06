@@ -1,4 +1,8 @@
 public/*
 !public/CNAME
+!public/robots.txt
+!public/llms.txt
+!public/images/
+!public/images/*
 .DS_Store
 *.log
