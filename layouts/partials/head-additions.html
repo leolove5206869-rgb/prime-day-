@@ -25,6 +25,8 @@
 <meta name="twitter:image" content="{{ "/images/homekitchen-picks-social.svg" | absURL }}">
 {{ end }}
 
+{{ partial "schema.html" . }}
+
 <!-- GEO: Speakable content identification -->
 {{ if .IsPage }}
   {{ $speakableSections := slice "summary" "content" }}
