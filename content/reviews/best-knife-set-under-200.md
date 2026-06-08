@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B0GTMY58YY", "B005P0OKMO", "B00GIBKC3K", "B07CX7B3W9"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/knife-set-wusthof.webp"
 +++
 
 ## Quick Verdict

@@ -8,6 +8,7 @@ summary = "After testing 12 french presses side-by-side for a month, here are th
 affiliate_link = ''
 rating = 4.5
 affiliate_ids = ["B078VPYHH2", "B07RJJ2SGG", "B0FLLFXZF5"]
+image = "/images/reviews/french-press-bodum.webp"
 +++
 
 ## Quick Verdict

@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B00FLYWNYQ", "B0D2LVWC7G", "B0FJ9YL548", "B07BB9ZQDY"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/slow-cooker-instantpot.webp"
 +++
 
 ## Quick Verdict

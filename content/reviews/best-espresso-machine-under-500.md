@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B07JVD78TT", "B086H24F5F", "B0BFM9FP4N", "B0DHJ9SZ81", "B07VFY4MXM", "B07STXCNXW"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/espresso-breville.webp"
 +++
 
 ## Quick Verdict

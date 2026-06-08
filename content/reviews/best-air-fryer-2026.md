@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B089ZT66H9", "B09SNWLLZM", "B096N3FTZP", "B09HSWBTN4"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/air-fryer-cosori.webp"
 +++
 
 ## Quick Verdict

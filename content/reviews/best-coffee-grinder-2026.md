@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B007F183LK", "B07CSKGLMM", "B0BW272XCV", "B0833SDN8M"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/coffee-grinder-baratza.webp"
 +++
 
 ## Quick Verdict

@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B08DJ9DB5F", "B09GZQ1MHC", "B081C4JN51", "B0FS1Y25QZ", "B09VTLQ9DT", "B08TC2FT5J"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/doorbell-ring.webp"
 +++
 
 ## Quick Verdict

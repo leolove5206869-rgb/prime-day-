@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B01N5UPTZS", "B01M0AWSJX", "B07JX1Z6LS", "B0GPZ9N38Z"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/toaster-oven-breville.webp"
 +++
 
 ## Quick Verdict

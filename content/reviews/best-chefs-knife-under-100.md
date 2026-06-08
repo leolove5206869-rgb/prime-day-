@@ -8,6 +8,7 @@ summary = "We spent 90 days cooking with 5 popular chef's knives under $100. Her
 affiliate_link = ''
 rating = 4.5
 affiliate_ids = ["B000638D32", "B00H0GL7HC", "B002R1CGV6", "B0848MVJ53"]
+image = "/images/reviews/chefs-knife-victorinox.webp"
 +++
 
 ## Quick Verdict

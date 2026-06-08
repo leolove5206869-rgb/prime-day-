@@ -9,7 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B08GKZSVMS", "B00XHXN54K", "B01MAXVK9Q", "B07GC9XZ9W"]
 affiliate_link = ""
-image = ""
+image = "/images/reviews/blender-ninja.webp"
 +++
 
 ## Quick Verdict
