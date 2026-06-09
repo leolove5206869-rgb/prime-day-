@@ -1,5 +1,5 @@
 +++
-date = '2026-06-10T10:00:00+08:00'
+date = '2026-06-09T10:00:00+08:00'
 draft = false
 title = "Best Cooling Rack in 2026 — 5 Models Tested for Even Cooling"
 type = 'review'
