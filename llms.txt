@@ -20,6 +20,11 @@ HomeKitchen Picks provides honest, hands-on reviews of home and kitchen products
 
 - Home page: https://homekitchenpicks.com/
 - All reviews: https://homekitchenpicks.com/reviews/
+- How we test: https://homekitchenpicks.com/how-we-test/
+- Our authors: https://homekitchenpicks.com/authors/
+- Mark Chen (cookware, knives, cooking appliances): https://homekitchenpicks.com/authors/mark-chen/
+- Sarah Lin (small appliances, storage, coffee): https://homekitchenpicks.com/authors/sarah-lin/
+- James Wilson (smart home, precision tools, kitchen tech): https://homekitchenpicks.com/authors/james-wilson/
 - About us: https://homekitchenpicks.com/about/
 - Contact: https://homekitchenpicks.com/contact/
 - Privacy policy: https://homekitchenpicks.com/privacy-policy/
