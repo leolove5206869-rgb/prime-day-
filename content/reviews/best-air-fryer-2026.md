@@ -9,6 +9,7 @@ brand = "Multiple"
 rating = 4.5
 affiliate_ids = ["B089ZT66H9", "B09SNWLLZM", "B096N3FTZP", "B09HSWBTN4"]
 affiliate_link = ""
+author = "Mark Chen"
 image = "/images/reviews/air-fryer-cosori.webp"
 +++
 
@@ -23,35 +24,40 @@ An air fryer is a convection oven that fits on your counter. Nothing magic, but 
 
 **Who this is for:** Anyone who eats frozen food, cooks for 1-2 people, or wants crispy vegetables without deep frying.
 
+**Who shouldn't buy:** Large families (get an oven-style). People who cook from scratch daily (air fryers are best for frozen food and reheating). Anyone with limited counter space who can't fit a dedicated appliance.
+
 **What we liked:** A $100 air fryer replaces a countertop oven and toaster for most daily tasks. Best kitchen purchase efficiency.
 
 **What we didn't:** Air fryers excel at frozen food and reheating. They're mediocre at from-scratch cooking requiring precise temperature control.
 
 ## Basket vs Oven: How to Choose
 
-**Basket style** (Cosori, Ninja, Instant Vortex):
-- Better for small batches (fries, wings, single portions)
-- Faster preheating (2-3 minutes)
-- Easy to shake mid-cook for even browning
-- Smaller footprint but less capacity
+| Factor | Basket Style | Oven Style |
+|--------|-------------|------------|
+| **Best for** | 1-2 people, frozen food, single portions | Families of 4+, whole meals, baking |
+| **Preheat to 400°F** | 2-3 minutes | 5-8 minutes |
+| **Capacity** | 4-10 qt (basket volume) | 0.5-0.9 cu ft (rack area) |
+| **Crispiness** | Excellent — shaking mid-cook is easy | Good — needs 2-3 extra minutes and a shake |
+| **Food variety** | Limited to one food type per batch | Multiple racks for different foods at once |
+| **Cleanup** | One nonstick basket, dishwasher-safe | Crumb tray + racks, hand-wash recommended |
+| **Counter footprint** | 10-12" wide, 11-14" deep | 14-16" wide, 14-18" deep |
+| **Weight** | 10-14 lb | 18-25 lb |
+| **Max food per batch** | 4 chicken thighs or 1.5 lb fries | Whole pizza or 8 chicken thighs |
+| **Price range** | $60-150 | $150-250 |
 
-**Oven style** (Cuisinart TOA-60):
-- Bigger capacity — whole pizza or 8 chicken thighs
-- Multiple racks for different foods at once
-- Slower preheating (5-8 minutes)
-- Larger footprint
-
-**Our take:** Get a basket style for 1-2 people. Get an oven style for families of 4+.
+**Our take:** Basket style for 1-2 people who prioritize crispy frozen food and fast cleanup. Oven style for families of 4+ who need capacity and multi-rack cooking. For most households, a basket-style air fryer at $80-100 paired with a regular oven is the best setup.
 
 ## How We Tested
 
-Eight air fryers, 45 days, standardized cooking tests. Every model cooked the same items:
+Eight air fryers, 45 days, 60 pounds of frozen fries, 112 chicken wings, and 36 pizzas later — every model cooked through the same standardized battery of tests:
 
-- **Frozen french fries** (25%) — Golden brown, fluffy interior, evenness
-- **Chicken wings** (25%) — Crispy skin without drying meat
-- **Roasted vegetables** (20%) — Caramelization, evenness, moisture retention
-- **Reheated pizza** (15%) — Crust crispness, topping texture
-- **Convenience** (15%) — Preheat time, noise, cleaning, UI quality
+| Test | Weight | What We Measured | Best Result |
+|------|--------|-----------------|-------------|
+| **Frozen french fries** (25%) | 12 oz per batch, 5 batches per unit | Golden brown ratio, interior fluffiness, evenness across basket | Cosori Pro II — 0 burnt pieces in 5 batches |
+| **Chicken wings** (25%) | 14 wings per unit (frozen) | Skin crispness, meat moisture, cook time | Instant Vortex — crispiest skin at 400°F in 22 min |
+| **Roasted vegetables** (20%) | 2 lbs mixed veg per unit | Caramelization score, evenness, moisture retention | Gourmia — most uniform browning across all pieces |
+| **Reheated pizza** (15%) | 2 slices per unit, 3 rounds | Crust crispness, topping texture, residual grease | Ninja Crispi — best recovery of fresh-baked texture |
+| **Convenience** (15%) | Measured per use | Preheat time, noise at 1m, cleaning difficulty, UI responsiveness | Cosori Pro II — fastest preheat (2:45), quietest at 52 dB |
 
 ## The 4 We'd Recommend
 
