@@ -85,6 +85,21 @@ Always. No commercial bakery measures flour by volume. Weight is the standard in
 **What scale should I buy?**
 The <a href="/reviews/best-food-scale-2026/">Escali Primo ($20)</a> is the best all-around kitchen scale — accurate, reliable, and easy to read. For bakers who use large bowls, the <a href="/reviews/oxo-kitchen-scale-review/">OXO Good Grips ($30)</a> has a pull-out display that stays visible with any bowl size.
 
+**Is a $10 kitchen scale good enough?**
+A $10 scale works, but you'll likely replace it within a year. The sensors drift, the buttons stick, and the display fades. The Escali Primo ($20) is the true entry point for a scale that lasts 5+ years. The difference between $10 and $20 is the difference between "annoying to use" and "seamless part of your workflow."
+
+**Does measuring by weight take more time than using cups?**
+After a week of practice, it's faster. You place a bowl on the scale, press tare, add the ingredient, press tare, add the next ingredient. No scooping, no leveling, no washing multiple measuring cups. For baking, weighing is significantly faster — you can measure 6 dry ingredients in 30 seconds using one bowl and the tare function.
+
+**When should I use measuring spoons instead of a scale?**
+For very small quantities (baking powder, baking soda, salt, spices under 1/4 teaspoon), measuring spoons are more practical than a scale. Most kitchen scales struggle with accuracy below 2-3 grams. Use scales for flour, sugar, butter, and grains. Use spoons for leaveners, spices, and extracts.
+
+**Do digital scales need calibration?**
+Most home kitchen scales are calibrated at the factory and don't need recalibration. If you suspect yours is off, test with a known weight: a US nickel weighs exactly 5 grams, a quarter weighs 5.67 grams, and 1 cup of water weighs 236 grams (at room temperature). If the reading is off by more than 2%, replace the scale.
+
+**How do I convert baking recipes from volume to weight?**
+The standard conversions: 1 cup all-purpose flour = 120g (4.25oz), 1 cup granulated sugar = 200g (7oz), 1 cup brown sugar (packed) = 220g (7.75oz), 1 cup butter = 227g (8oz), 1 cup cocoa powder = 85g (3oz). Bookmark these and you can convert any American recipe to grams in 2 minutes.
+
 ---
 
 *Prices and availability subject to change. We may earn a commission through affiliate links.*

@@ -56,6 +56,45 @@ This is not close. Kitchen shears open everything a knife cannot:
 
 **What to buy:** A good pair of take-apart shears (like <a href="https://www.amazon.com/dp/B0000CF3OH?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Kuhn Rikon at $20</a>) alongside your chef's knife covers every cutting task in your kitchen. They are complementary tools, not replacements for each other.
 
+## Decision Matrix
+
+| Task | Shears | Knife | Why |
+|------|--------|-------|-----|
+| Breaking down a whole chicken | ✅ Best tool | ❌ Slow, requires board | Shears snip joints in seconds; no board needed |
+| Chopping herbs (large bunch) | ❌ Crushes more than cuts | ✅ Best tool | Rock chop with knife is faster and cleaner |
+| Sprinkling chives as garnish | ✅ Best tool | ❌ Awkward for tiny amounts | Snip directly over the dish with shears |
+| Opening clamshell packaging | ✅ Best tool | ❌ Dangerous (knife can slip) | Shears clip through plastic safely |
+| Dicing an onion | ❌ Unusable | ✅ Best tool | Knife is purpose-built for volume dicing |
+| Cutting pizza | ✅ Great for quick slices | ✅ Also works | Both work; shears avoid dragging toppings |
+| Trimming silverskin from meat | ❌ Too coarse | ✅ Best tool | Knife gives precise control over fat removal |
+| Opening vacuum-sealed bags | ✅ Best tool | ❌ Risks cutting contents | Shears open at the seal precisely |
+| Spatchcocking a turkey | ✅ Best tool | ❌ Can shatter bone | Shears cut through ribs and backbone cleanly |
+| Snipping rosemary sprigs | ✅ Best tool | ❌ Leaves bruise easily | Shears cut clean without crushing needles |
+
+## FAQ
+
+<div class="faq-section">
+
+**Can kitchen shears replace a chef's knife?**
+No. Shears excel at 3 specific tasks (poultry, packaging, small garnishes) but cannot replace a chef's knife for the 30+ other cutting tasks in a typical kitchen — dicing, slicing, chopping, mincing, julienning. Shears complement a knife; they do not replace it.
+
+**Should I buy take-apart or fixed kitchen shears?**
+Take-apart shears (where the two blades separate at the pivot) are essential for poultry work. The joint is the hardest part to clean on fixed shears, and raw chicken fat trapped in the pivot is a contamination risk. Take-apart shears also make sharpening practical — each blade can be honed individually. Kuhn Rikon ($20) and kitchen pro shears ($15-20) are the best take-apart options.
+
+**How do I sharpen kitchen shears?**
+Most kitchen shears cannot be sharpened with a standard knife sharpener because the blades have a micro-serrated edge. Send them to a professional sharpener or replace them ($15-20) when dull. Some high-end shears (like Shun or Wusthof) have standard straight edges that can be honed with a fine diamond rod. For the vast majority of home cooks, replacement is cheaper than professional sharpening.
+
+**Can I wash kitchen shears in the dishwasher?**
+For take-apart shears: yes — separate the blades and place them in the utensil basket. The high heat will not damage high-carbon stainless steel blades. For fixed shears: no — the pivot joint will trap food particles and may rust. Always hand-wash and dry fixed shears immediately. Even take-apart shears will last longer with hand washing.
+
+**Are kitchen shears safe for cutting bones?**
+Yes, for poultry bones (chicken, turkey, duck, quail). No, for beef, pork, or lamb bones. Poultry bones are hollow and brittle — shears can cut through them cleanly. Mammal bones are dense and will damage the blades. Use a cleaver or hacksaw for beef or pork bones.
+
+**Do expensive kitchen shears make a difference?**
+For occasional use (once a week): a $10-15 pair is fine. For daily use: spend $20-30 on take-apart shears with micro-serrated blades. The difference is blade retention (cheap shears dull in 3-4 months, good shears last 1-2 years), ergonomics (better handle comfort for repetitive cutting), and detachability for cleaning. Beyond $30, you pay for aesthetics and brand name — performance plateaus around $25.
+
+</div>
+
 ---
 
 *Prices and availability subject to change. We may earn a commission through affiliate links.*

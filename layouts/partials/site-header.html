@@ -1,0 +1,14 @@
+<header class="site-header ph3 pv2">
+  <div class="mw9 center flex items-center justify-between">
+    <a href="{{ site.Home.RelPermalink }}" class="site-title no-underline" title="{{ site.Title }}">
+      {{ site.Title }}
+    </a>
+    {{ with site.Menus.main }}
+    <nav class="nav-links flex items-center">
+      {{ range . }}
+      <a class="nav-link no-underline ml3" href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  </div>
+</header>

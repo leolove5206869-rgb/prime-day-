@@ -3,6 +3,7 @@ canonifyURLs = true
 languageCode = 'en-us'
 title = 'HomeKitchen Picks — Honest Reviews for Your Home'
 theme = 'ananke'
+buildFuture = true
 
 [params]
   description = "Real home and kitchen product reviews. Find the best gear for your kitchen, coffee setup, and home essentials — tested and compared."
@@ -25,6 +26,11 @@ theme = 'ananke'
 name = "Reviews"
 url = "/reviews/"
 weight = 5
+
+[[menu.main]]
+name = "How We Test"
+url = "/how-we-test/"
+weight = 8
 
 [[menu.main]]
 name = "About"

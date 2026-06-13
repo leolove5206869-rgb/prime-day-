@@ -78,6 +78,34 @@ The order matters: immersion blender first (soup and sauces daily), countertop b
 
 **Start with an immersion blender, add a countertop blender if you need smoothies.** The immersion blender will be your most-used blending tool.
 
+## FAQ
+
+### Can an immersion blender crush ice?
+No. Immersion blender blades are too small and create a vortex that spins ice cubes around without breaking them. You need the power, blade design, and tall jar of a countertop blender for crushed ice. If frozen drinks are a priority, get a countertop blender first.
+
+### What's the minimum amount an immersion blender can blend?
+An immersion blender works with as little as 4oz of liquid, as long as the blade is fully submerged. This makes it ideal for single-serving tasks: one-person smoothies, salad dressings, baby food, or emulsifying a single yolk into mayonnaise. A countertop blender typically needs 12-16oz minimum fill or the ingredients just spin above the blades.
+
+### Can an immersion blender make smoothies?
+It can make liquid-heavy smoothies (fruit + juice or milk), but not the thick, icy smoothies a countertop blender makes. Frozen fruit and ice create a vortex that the immersion blade can't break down. For a thin berry-and-yogurt smoothie in a tall cup, it works fine. For a thick frozen green smoothie, a countertop blender is required.
+
+### Is an immersion blender good for making nut butter?
+No — making nut butter requires sustained high-speed blending for 2-4 minutes to release the natural oils. An immersion blender's motor isn't designed for that kind of continuous load, and the small blade can't circulate the thick paste. Use a high-powered countertop blender (Vitamix, Blendtec) or a food processor for nut butters.
+
+### How do I prevent splatter when using an immersion blender?
+Always fully submerge the blade before starting, and use a tall, narrow container (the blending cup or a deep pot). Start on low speed and increase gradually. If blending hot soup, insert the blender at a slight angle and pulse before running continuously — this prevents the initial burst from spraying upward.
+
+### Does an immersion blender work for protein shakes?
+Extremely well. An immersion blender in a tall cup smooths out protein powder clumps in 10-15 seconds without the cleanup of a countertop blender. This is one of the most underrated uses — many immersion blender owners use it daily for protein shakes even if they rarely make soup.
+
+### What's the best immersion blender for most people?
+The Cuisinart CSB-179 ($55) is the best value — 300W motor, stainless steel shaft, 4-prong blade, and includes a whisk and chopper attachment. For heavier use, the Breville Control Grip ($80) has an ergonomic handle design and 280W motor with better speed control. The Bamix (from $150) is the professional choice built to last 15+ years.
+
+### Can I use an immersion blender in a nonstick pot?
+Yes, but with care. Always lift the immersion blender slightly off the bottom of the pot — the blade guard should be 1/4 inch above the nonstick surface. Never scrape the blade guard against the pot while running. The stainless steel blade guard can scratch nonstick coatings if you press down while blending.
+
+---
+
 See our full <a href="/reviews/best-immersion-blender-2026/">best immersion blender review →</a>
 
 ---

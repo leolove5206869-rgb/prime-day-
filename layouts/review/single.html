@@ -2,13 +2,28 @@
 {{ define "main" }}
 <article class="mw8 center ph4 pv4">
   {{ if .Params.image }}
-  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb4 br2">
+  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb4 review-hero-image">
   {{ end }}
+
+  <span class="affiliate-badge">We may earn a commission — <a href="/privacy-policy/#affiliate-disclosure" class="link">learn more</a></span>
   <h1 class="f2 lh-title">{{ .Title }}</h1>
-  {{ if .Params.show_reading_time | default site.Params.show_reading_time }}
-  <p class="f6 silver mb4">{{ .ReadingTime }} min read</p>
-  {{ end }}
-  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray">
+
+  <div class="review-meta-bar">
+    {{ if .Params.author }}
+    <span>By <a href="/authors/{{ .Params.author | urlize }}/" class="link">{{ .Params.author }}</a></span>
+    {{ end }}
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if .Params.show_reading_time | default site.Params.show_reading_time }}
+    <span>{{ .ReadingTime }} min read</span>
+    {{ end }}
+    {{ if .Params.categories }}
+    {{ range .Params.categories }}
+    <a href="/categories/{{ . | urlize }}/" class="link">{{ . }}</a>
+    {{ end }}
+    {{ end }}
+  </div>
+
+  <div class="review-content nested-copy-line-height lh-copy nested-links">
     {{ .Content }}
   </div>
 </article>

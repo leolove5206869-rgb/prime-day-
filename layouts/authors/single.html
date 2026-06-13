@@ -1,0 +1,54 @@
+{{ define "title" }}{{ .Title }} — Reviewer | {{ site.Title }}{{ end }}
+{{ define "main" }}
+<article class="mw8 center ph4 pv4">
+  <div class="flex flex-wrap">
+    <div class="w-100 w-20-m tc">
+      <div class="bg-light-gray br-100 h4 w4 center flex items-center justify-center">
+        <span class="f1 silver">{{ substr .Title 0 1 }}</span>
+      </div>
+    </div>
+    <div class="w-100 w-80-m pl4-m">
+      <h1 class="f2 lh-title mt0">{{ .Title }}</h1>
+      {{ with .Params.credentials }}<p class="f5 silver mt2 mb3">{{ . }}</p>{{ end }}
+      {{ with .Params.bio }}<p class="f5 lh-copy mid-gray">{{ . }}</p>{{ end }}
+    </div>
+  </div>
+
+  <div class="mt4">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.expertise }}
+  <div class="mt4">
+    <h2 class="f3 mb3">Expertise</h2>
+    <div class="flex flex-wrap">
+      {{ range . }}
+      <span class="bg-lightest-blue blue ph3 pv2 br2 mr2 mb2 f6">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ $authorName := .Title }}
+  {{ $authorReviews := where (where site.Pages "Type" "review") "Params.author" $authorName }}
+  {{ $allReviews := where site.Pages "Type" "review" }}
+  {{ if lt (len $authorReviews) 1 }}
+    {{ $authorReviews = $allReviews | first 5 }}
+  {{ end }}
+  {{ if gt (len $authorReviews) 0 }}
+  <div class="mt5 pt4 bt b--light-gray">
+    <h2 class="f3 mb3">Reviews by {{ .Title }}</h2>
+    {{ range $authorReviews }}
+    <div class="mb4 pb4 bb b--light-gray">
+      <h3 class="f4 mb2"><a href="{{ .RelPermalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h3>
+      <p class="f6 silver mb2">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</p>
+      <p class="f5 lh-copy mid-gray">{{ .Summary | truncate 160 }}</p>
+      <a href="{{ .RelPermalink }}" class="f6 link blue hover-dark-blue">Read review →</a>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ partial "schema.html" . }}
+</article>
+{{ end }}

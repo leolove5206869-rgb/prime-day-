@@ -1,0 +1,6 @@
+# Google AdSense ads.txt — AdSense 审核通过后替换下方一行
+# 把 pub-XXXXXXXXXXXXXXXXXX 换成你的 AdSense Publisher ID
+# google.com, pub-XXXXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# 示例（批准后取消注释并替换 ID）:
+# google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0

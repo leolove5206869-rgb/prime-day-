@@ -78,6 +78,44 @@ Most home cooks should buy electric. Here's why.
 
 For 90% of home cooks, electric is the right choice. It's safer, more versatile, and more convenient. The 3 psi difference means maybe 5-10 minutes extra on a 1-hour recipe — a trade worth making for set-and-forget cooking.
 
+## Decision Matrix
+
+| If you... | Choose Electric | Choose Stovetop |
+|-----------|----------------|-----------------|
+| Want set-and-forget convenience | ✅ Set timer and walk away | ❌ Must monitor heat and pressure |
+| Are new to pressure cooking | ✅ Safer — lid locks, sensors, auto-off | ❌ Steeper learning curve |
+| Need multi-function (saute, slow cook, rice) | ✅ One appliance does it all | ❌ Pressure cooking only |
+| Want the fastest possible cook times | ❌ 10-12 psi, slower preheat | ✅ 15 psi, 20-30% faster |
+| Pressure can food for shelf storage | ❌ Doesn't reach safe canning pressure | ✅ Required for safe canning |
+| Cook on induction | ✅ Works (but preheat is slow) | ✅ Excellent efficiency on induction |
+| Want an appliance that lasts 20+ years | ❌ Electronics fail in 5-10 years | ✅ Simple construction, decades of use |
+| Have limited counter space | ❌ Bulky, stays on counter | ✅ Compact, stores in cabinet |
+| Meal prep for a family | ✅ Large capacity (6-8 qt) + keep-warm | ✅ Large capacity (6-10 qt) but no keep-warm |
+
+## FAQ
+
+<div class="faq-section">
+
+**Is electric pressure cooker food less flavorful than stovetop?**
+No — the flavor difference is negligible for most recipes. The lower pressure (10-12 psi vs 15 psi) means slightly longer cook times but the same flavor extraction. The one exception is bone broths: stovetop pressure at 15 psi extracts more collagen in the same amount of time. For stews, beans, meats, and vegetables, most people cannot tell the difference in a blind test.
+
+**Can I use my electric pressure cooker for canning?**
+No — electric pressure cookers do not reach and maintain the 15 psi required for safe home canning of low-acid foods (vegetables, meats, poultry). Only use a stovetop pressure cooker with a dial gauge or weighted gauge for canning. The USDA explicitly warns against using electric pressure cookers for canning.
+
+**Which type is better for cooking beans from dry?**
+Both work well, but the electric's set-and-forget nature makes it more convenient. Soak beans, add water, set the timer, and walk away for 25-40 minutes (depending on bean type). The stovetop is faster (15-25 minutes at 15 psi) but requires monitoring. For bean dishes where you want a specific texture (al dente for salads, soft for refried), the stovetop gives you more control to stop exactly when ready.
+
+**How does the cost compare over 10 years?**
+Electric ($50-200 upfront): typically needs replacement in 5-10 years due to electronics, seal, and sensor wear. Estimated 10-year cost: $100-300 with one replacement. Stovetop ($40-150 upfront): lasts 20+ years with minimal maintenance (just replace the gasket every 3-5 years for ~$10). Estimated 10-year cost: $50-160. Stovetop is cheaper long-term, but the gap is small enough that convenience should drive your decision.
+
+**Do electric pressure cookers work at high altitude?**
+Yes — digital pressure sensors in electric models automatically adjust for altitude. The microprocessor maintains the correct pressure regardless of your elevation. Stovetop models require manual adjustment: you must increase the weight or adjust the regulator to account for lower atmospheric pressure at high altitudes. This makes electric models simpler for high-altitude cooking.
+
+**Can I reduce the liquid in a stovetop recipe for electric use?**
+No — electric pressure cookers require a minimum amount of liquid (typically 1-2 cups) to reach and maintain pressure because liquid evaporates during the longer preheat phase. Stovetop cookers can use less liquid since the preheat is faster and less water escapes. Always follow your electric cooker's minimum liquid guidelines to avoid burn errors.
+
+</div>
+
 ---
 
 **Related:** [Best Pressure Cooker 2026 — Full Review](/reviews/best-pressure-cooker-2026/) | [Best Pressure Cooker for Beginners](/reviews/best-pressure-cooker-for-beginners/)

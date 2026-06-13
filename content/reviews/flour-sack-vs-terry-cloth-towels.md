@@ -86,6 +86,46 @@ Terry cloth has looped pile construction — those little loops of cotton that c
 
 **The ideal setup:** 12 flour sack towels for dishes and daily tasks, 4-6 terry cloth towels for hands and heavy wiping. Total investment: ~$25 for a system that covers every kitchen towel need.
 
+## Decision Matrix
+
+| If you need to... | Use Flour Sack | Use Terry Cloth |
+|-------------------|---------------|-----------------|
+| Dry wine glasses without streaks | ✅ Best tool for the job | ❌ Lint will stick to glass |
+| Dry hands after washing | ❌ Thin fabric, uncomfortable | ✅ Plush and absorbent |
+| Polish stainless steel appliances | ✅ Lint-free, no streaks | ❌ Leaves lint behind |
+| Handle hot pans (oven mitt substitute) | ❌ Feels heat through fabric | ✅ Thick loops protect hands |
+| Cover bread dough for proofing | ✅ Traditional bakery use | ❌ Loops stick to dough |
+| Strain yogurt or cheese | ✅ Loose weave works as strainer | ❌ Heavy, not food-safe loose fibers |
+| Wipe up a kitchen counter spill | ✅ Fast absorption, quick dry | ✅ Holds more liquid overall |
+| Buff a cast iron skillet after seasoning | ✅ Thin fabric reaches all surfaces | ❌ Too thick, snags on rough iron |
+| Clean a mirror or window | ✅ No lint = no streaks | ❌ Lint and streaks guaranteed |
+| Use as a napkin at dinner | ✅ Looks clean, folds neatly | ❌ Too bulky, looks informal |
+| Soak up a large water spill on the floor | ❌ Small capacity | ✅ Holds 2x more water |
+
+## FAQ
+
+<div class="faq-section">
+
+**Do I really need both types of kitchen towels?**
+If you cook regularly, yes. Flour sack towels excel at dish drying, glass polishing, and any task where lint-free matters. Terry cloth excels at hand drying and heavy wiping. A kitchen with only terry towels will leave lint on glassware. A kitchen with only flour sack will be uncomfortable for hand drying. Having both costs ~$25 total and covers every scenario.
+
+**How many washes before flour sack towels reach peak performance?**
+Flour sack towels arrive stiff from manufacturing starch. After 2-3 hot water washes without fabric softener, they soften significantly. Peak performance comes around wash 5-7 — maximum absorbency, zero lint, and a soft-but-not-fuzzy hand feel. They stay at this level for years if you avoid fabric softener and dryer sheets (which coat the fibers and reduce absorbency).
+
+**Why does terry cloth smell musty so quickly?**
+The looped pile construction of terry cloth traps moisture deep in the fibers. When hung in a humid kitchen or folded damp, the interior loops stay wet for hours — long enough for bacteria to multiply and cause that sour smell. Flour sack towels dry in 2-3 hours (too fast for bacterial growth), making them the better choice for any towel that won't be bone-dry within an hour of use.
+
+**Can I use fabric softener on kitchen towels?**
+No. Fabric softener coats cotton fibers with a waxy layer that reduces absorbency by 30-50%. This affects both flour sack and terry cloth towels. For maximum absorbency, wash kitchen towels in hot water with regular detergent and add a cup of white vinegar to the rinse cycle every few washes to remove built-up oils and residue.
+
+**How often should I replace kitchen towels?**
+Flour sack towels: 2-3 years of regular use before they start thinning and losing absorbency. Terry cloth towels: 1-2 years before the loops start pulling, edges fray, and absorbency drops. Replace sooner if they develop a musty smell that persists through washing (deep-set bacterial colonization) or if they stop drying glassware streak-free.
+
+**Are flour sack towels good for drying nonstick pans?**
+Yes — flour sack towels are excellent for drying nonstick surfaces because the smooth weave won't scratch the coating. Terry cloth loops can catch on micro-scratches in older nonstick pans. For new nonstick cookware, always use flour sack or a dedicated soft cloth.
+
+</div>
+
 ---
 
 **Related:** [Best Kitchen Towels 2026 — Full Review](/reviews/best-kitchen-towels-2026/)

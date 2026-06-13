@@ -68,6 +68,49 @@ The catch: wood can't go in the dishwasher. Hand-washing with hot soapy water is
 **Buy both:**
 This is the optimal setup. A <a href="https://www.amazon.com/dp/B000VKD2XI?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">John Boos Maple</a> ($80) for vegetables, herbs, bread, and general prep. A <a href="https://www.amazon.com/dp/B0000DGGXM?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">OXO Good Grips</a> ($15) for raw meat and anything that goes in the dishwasher.
 
+## Decision Matrix: Choose by Your Cooking Style
+
+| If You... | Choose | Why |
+|---|---|---|
+| Own $100+ knives | Wood (end-grain) | Knife-friendly surface extends edge life 3x vs plastic |
+| Only use a $20 knife block set | Either — or plastic | Knife edge preservation matters less; plastic is cheaper |
+| Cook raw chicken 3+ times/week | Both: plastic for meat, wood for produce | Separate boards prevent cross-contamination most effectively |
+| Want dishwasher convenience | Plastic | Wood cannot go in dishwasher; plastic thrives in it |
+| Have limited counter space | Plastic (thin, small) | Plastic boards are lighter, thinner, and easier to store standing up |
+| Meal-prep large quantities weekly | Wood (large, heavy) | A 20x15 wood board stays put; plastic boards slide around |
+| Are a vegetarian | Wood | Raw meat risk disappears; knife care becomes the dominant factor |
+| Rent and move frequently | Plastic | Plastic boards are cheap, disposable, and easy to replace |
+| Want a board that looks good entertaining | Wood (end-grain, edge-grain) | Wood boards double as serving platters for cheese and charcuterie |
+| Have kids helping in the kitchen | Plastic (lightweight) | Kids can handle and wash plastic boards safely and independently |
+
+## FAQ
+
+### Is wood cutting board really more hygienic than plastic?
+Counterintuitively, yes — properly maintained wood is as hygienic as plastic, and some studies suggest it's more antimicrobial. Wood fibers are hygroscopic: they pull moisture (and bacteria) below the surface, and the bacteria die as the wood dries. A UC Davis study found that wood boards had 99.9% bacterial die-off within 3 minutes of contamination. The key is proper drying — wood needs to dry completely between uses, which means standing it upright, not laying flat. Plastic doesn't have this self-sanitizing property, but it can be sanitized in the dishwasher.
+
+### How often should I replace my cutting board?
+Wood: every 10-20 years if oiled regularly and sanded when deeply scored. Replace when the board develops a deep crack (not surface groove) or when it warps so badly it rocks on the counter. Plastic: every 6-12 months, or as soon as the surface becomes heavily scored with visible cut ridges. The FDA recommends replacing plastic boards when they develop grooves that are difficult to clean. A quick test: if you can feel the grooves with your fingernail, replace the board.
+
+### Can I put a wood cutting board in the dishwasher?
+Never. Dishwasher heat and moisture will warp, crack, and split a wood board. The high heat dries out the wood unevenly, causing the fibers to separate. The prolonged moisture exposure can also cause the glue layers in edge-grain and end-grain boards to fail. Some sealed bamboo boards claim dishwasher safety, but even they degrade faster with regular dishwasher use. Always hand-wash wood boards with hot soapy water, rinse, dry immediately, and store upright.
+
+### How do I remove stains and odors from a wood cutting board?
+For stains (beet juice, berries): sprinkle coarse salt on the board, cut a lemon in half, and scrub the salt with the cut lemon. Let sit 5 minutes, rinse, and dry. For odors (garlic, onion, fish): make a paste of 1 tablespoon baking soda and water, apply to the board, let sit for 15 minutes, then scrub and rinse. For deep cleaning: hydrogen peroxide (3%) works as a gentle bleach — spray on, let fizz for 2-3 minutes, rinse. Never use bleach on wood — it damages the fibers and can leave residue that transfers to food.
+
+### Do I really need to oil my wood cutting board?
+Yes — monthly oiling is the difference between a board that lasts 20 years and one that cracks in 2. Mineral oil (food-grade, sold as "cutting board oil" or "butcher block oil") prevents the wood from drying out, which prevents cracking and warping. It also creates a moisture barrier that prevents deep cuts from absorbing juices. Apply generously, let it soak in for 4-6 hours (or overnight), then wipe off excess. Never use vegetable or olive oil — they go rancid. A $6 bottle of mineral oil lasts 6-12 months.
+
+### Which wood is best for cutting boards?
+Maple is the gold standard — hard enough to resist deep cuts, closed grain to resist moisture absorption, and light enough to see stains. Walnut is second-best — slightly softer than maple but beautiful dark color that hides stains well and is naturally antimicrobial. Teak is excellent for outdoor use but very hard on knives (the silica content blunts edges faster). Avoid oak (open grain traps bacteria), acacia (can be very hard on knives), and tropical hardwoods with unknown toxicity. Never use glass, marble, or steel boards — they destroy knife edges in minutes.
+
+### Are composite boards (Epicurean, Richlite) a good middle ground?
+Yes — composite boards made from paper-resin or wood-fiber composite offer a genuine compromise. They're knife-friendly (close to wood in edge retention), dishwasher-safe (unlike wood), and don't develop the deep cut-grooves of plastic. The downsides: they cost $30-60 (more than plastic, less than premium wood), the surface feels "plasticky," and they cannot be sanded and restored like wood. They last 3-5 years. An Epicurean board is an excellent choice if you want wood-like knife care with plastic-like maintenance convenience.
+
+### How many cutting boards do I actually need?
+The USDA recommends at least two: one for raw meat, poultry, and seafood, and another for vegetables, fruits, and ready-to-eat foods. Most home kitchens benefit from three: a large wood board (15x20+) for vegetable prep, a small plastic board for raw meat that goes in the dishwasher, and a medium plastic board for fruit and bread. The third board is optional but convenient — cutting citrus on the wood board leaves odors and stains, while cutting bread on plastic creates unnecessary grooves. If you only want two: a large wood board for vegetables and a small plastic board for meat is the optimal setup.
+
+---
+
 ## Related Reviews
 
 - <a href="/reviews/best-cutting-board-2026/">Best Cutting Board in 2026 — Full Review</a>

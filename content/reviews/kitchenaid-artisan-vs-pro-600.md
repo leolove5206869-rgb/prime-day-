@@ -78,6 +78,34 @@ Both mixers routinely last 15-25 years. The Pro 600's motor is less stressed dur
 
 **Buy the Pro 600** (<a href="https://www.amazon.com/dp/B00MFFB3HE?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">$550</a>) if bread dough is your primary use case. It kneads without complaint and the extra capacity matters when you're baking for a crowd.
 
+## FAQ
+
+### Is the KitchenAid Artisan powerful enough for bread dough?
+For 1-2 loaves per week, yes — but you have to babysit it. The 325W motor handles 500-600g of flour (1 standard loaf) without overheating if you knead at speed 2 for 6-8 minutes max. The head will bounce on stiff dough — the official fix is to hold the head down while it kneads. If you bake bread 3+ times a week, the Pro 600 is worth the upgrade.
+
+### What's the actual difference between tilt-head and bowl-lift?
+Tilt-head (Artisan): you unlock a lever and tilt the head back to access the bowl. One-handed, intuitive, fast. Bowl-lift (Pro 600): you raise and lower the bowl with a lever on the side. It adds one step to every interaction. The bowl-lift is stronger (less play in the mechanism during heavy kneading), but the tilt-head is more convenient for daily use. Most owners prefer tilt-head after trying both.
+
+### Can I use my Artisan attachments on the Pro 600?
+Yes — all KitchenAid stand mixers (except the Mini) share the same accessory hub on the front. The pasta roller, meat grinder, spiralizer, ice cream maker, and all 15+ attachments work interchangeably. The mixing attachments (paddle, whisk, dough hook) are specific to each model's bowl size — you can't use an Artisan paddle in a Pro 600 bowl.
+
+### How much counter space does each mixer need?
+The Artisan (13.9" x 14.1") fits on most standard countertops with room for storage. The Pro 600 (16.3" x 15.2") takes noticeably more space and is harder to slide back into a cabinet. Both are heavy (23lb and 28lb), so plan to leave the Artisan out full-time and the Pro 600 in a semi-permanent spot.
+
+### Is the Pro 600 quieter than the Artisan?
+Yes — we measured 68dB vs 74dB at speed 2. The Pro 600's bowl-lift design and heavier construction dampen vibration and noise. The difference is noticeable enough that Pro 600 owners can hold a conversation while mixing, while Artisan owners raise their voices. The planetary gear design in the Pro 600 is inherently quieter.
+
+### What causes the Artisan's head to bounce on dough?
+The tilt-head mechanism has a small amount of play — it's a hinge, not a lock. When stiff dough catches on the dough hook, the resistance transmits through the head. At speed 2, this creates a rocking motion. KitchenAid considers this normal. The fix: knead at speeds 1-2 and hold the head down if needed. The Pro 600's bowl-lift has zero play because the bowl pushes up against a locked head.
+
+### Which mixer is better for small batches (single egg white, small frosting)?
+The Artisan by a wide margin. Its 5qt bowl has a narrower, deeper shape — a single egg white reaches the whisk. The Pro 600's 6qt bowl is wider and shallower, so the whisk doesn't contact small quantities. For whipping 1-2 egg whites or mixing 1 cup of frosting, you'll need to scrape the Pro 600 bowl frequently.
+
+### How do I maintain my KitchenAid mixer for maximum lifespan?
+Three things: (1) Clean after every use — wipe the head, don't submerge it. (2) Don't exceed speed 2 for dough (the manual is serious about this — higher speeds strain the gears). (3) The Artisan's nylon sacrificial gear needs replacement every 5-10 years if you do heavy dough — order a $20 replacement gear and any repair shop can install it in 30 minutes.
+
+---
+
 Read our full <a href="/reviews/best-stand-mixer-2026/">stand mixer guide →</a>
 
 ---

@@ -66,6 +66,32 @@ Handheld frothers cost $10-18. Automatic frothers cost $35-100. A handheld pays 
 
 **Our recommendation:** Start with a <a href="https://www.amazon.com/dp/B0B7ZR9YML?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Zulay handheld</a> ($15). If you make milk drinks daily after 30 days, upgrade to the <a href="https://www.amazon.com/dp/B07KGP5H6K?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" target="_blank" rel="nofollow sponsored">Secura automatic</a> ($40). The handheld still serves as backup for travel and small batches.
 
+## FAQ
+
+### Can a handheld frother make latte art quality foam?
+Not consistently. Handheld frothers produce larger bubbles (1-2mm) that collapse too quickly for latte art. Automatic frothers create microfoam with bubbles under 0.5mm that holds shape for 10+ minutes, which is suitable for basic latte art. Neither produces the silky microfoam of a proper espresso machine steam wand — that requires pressurized steam injection.
+
+### What type of milk froths best in each frother?
+Whole milk (3.25% fat) froths best in both types — the fat and protein create stable foam. Oat milk (barista blend) is the best non-dairy option, closely followed by soy. Almond and coconut milk produce thin, watery foam that collapses quickly. Skim milk froths well but lacks the creamy mouthfeel. In automatic frothers, barista oat milk is nearly indistinguishable from whole milk.
+
+### Can I heat milk with a handheld frother?
+No — handheld frothers only aerate and mix. You must heat the milk separately (microwave or stovetop) before or after frothing. Automatic frothers heat and froth simultaneously, which is more convenient and produces better hot foam because the milk temperature stays consistent throughout the process.
+
+### How long does a handheld frother battery last?
+Most handheld frothers use 2 AA batteries and last 4-6 months with daily use (roughly 200-300 frothing sessions). Rechargeable models (USB-C) last 2-3 months per charge. Battery life drops significantly if you froth thick liquids like matcha or protein shakes. Keep spare batteries handy if you travel with it.
+
+### What's the best automatic milk frother for home use?
+The Secura automatic ($40) offers the best value — consistent microfoam, 4 temperature settings, and a dishwasher-safe jug. The Breville Milk Cafe ($100) is the premium choice with superior temperature control and a stainless steel jug. The Nespresso Aeroccino 3 ($80) is the best option if you have a Nespresso machine, as it matches the design aesthetic and workflow.
+
+### Is cold foam or hot foam better with a handheld frother?
+Cold foam is significantly better with handheld frothers. Cold milk creates denser, more stable foam because the proteins don't break down as quickly. Hot milk requires more careful technique and the foam collapses faster. If hot foam is your goal, an automatic frother or steam wand is a much better investment.
+
+### Why does my handheld frother make splatters everywhere?
+Two common mistakes: (1) the whisk isn't fully submerged when starting — always submerge before pressing the button, (2) the container is too wide — use a narrow mug or tall cup (2.5-3 inch diameter works best). Tilt the frother at a 15-20 degree angle rather than holding it vertical to create better vortex action without splashing.
+
+### Can I use a milk frother for matcha or protein shakes?
+Handheld frothers excel here — they mix matcha powder into water without lumps, and they blend protein powder into milk or water smoothly. Automatic frothers cannot do this because their heating element and magnetic stir mechanism don't work with thicker mixtures. A handheld is the better tool if you make matcha or protein drinks regularly.
+
 ---
 
 *Prices and availability subject to change. We may earn a commission through affiliate links.*

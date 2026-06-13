@@ -8,11 +8,12 @@ redirects = []
 
 [build]
 publish = "/Users/shihaoran/prime-day-review/prime-day-review-hugo/public"
-publishOrigin = "ui"
-commandOrigin = "ui"
-command = "hugo"
+publishOrigin = "config"
+commandOrigin = "config"
+command = "git submodule update --init --recursive && hugo --gc --minify"
 
 [build.environment]
+HUGO_VERSION = "0.160.1"
 
 [build.processing]
 

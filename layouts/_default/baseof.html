@@ -12,6 +12,10 @@
   {{ block "head" . }}{{ end }}
 </head>
 <body class="bg-white">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLN4Q6PZ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   {{ block "header" . }}{{ partial "site-header.html" . }}{{ end }}
   <main class="{{ block "main-class" . }}pb7{{ end }}" role="main">
     {{ block "main" . }}{{ end }}

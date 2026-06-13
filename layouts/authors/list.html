@@ -1,0 +1,29 @@
+{{ define "title" }}{{ .Title }} | {{ site.Title }}{{ end }}
+{{ define "main" }}
+<article class="mw8 center ph4 pv4">
+  <h1 class="f2 lh-title">{{ .Title }}</h1>
+  {{ with .Content }}
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray mb4">
+    {{ . }}
+  </div>
+  {{ end }}
+  <div class="flex flex-wrap">
+    {{ range .Pages }}
+    <div class="w-100 w-50-m w-33-l pa2">
+      <a href="{{ .RelPermalink }}" class="db bg-white ba b--light-gray br2 pa3 h-100 link black hover-bg-lightest-blue">
+        <div class="flex items-center mb3">
+          <div class="bg-light-gray br-100 h3 w3 flex items-center justify-center">
+            <span class="f2 silver">{{ substr .Title 0 1 }}</span>
+          </div>
+          <div class="ml3">
+            <h2 class="f4 mv0">{{ .Title }}</h2>
+            {{ with .Params.credentials }}<p class="f6 silver mv0">{{ . }}</p>{{ end }}
+          </div>
+        </div>
+        <p class="f6 lh-copy mid-gray mv0">{{ .Params.bio | truncate 120 }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

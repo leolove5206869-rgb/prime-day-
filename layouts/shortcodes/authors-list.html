@@ -1,0 +1,25 @@
+{{ $authorPages := where site.Pages "Section" "authors" }}
+{{ $authorPages = where $authorPages "IsPage" true }}
+<div class="flex flex-wrap">
+{{ range $authorPages }}
+  <div class="w-100 w-50-m pa2">
+    <a href="{{ .RelPermalink }}" class="db bg-white ba b--light-gray br2 pa3 link black hover-bg-lightest-blue">
+      <div class="flex items-center">
+        <div class="bg-light-gray br-100 h3 w3 flex items-center justify-center">
+          <span class="f2 silver">{{ substr .Title 0 1 }}</span>
+        </div>
+        <div class="ml3">
+          <strong class="f5">{{ .Title }}</strong><br>
+          <span class="f6 silver">{{ .Params.bio | truncate 100 }}</span>
+        </div>
+      </div>
+      <div class="mt2 f6">
+        <strong>Expertise:</strong>
+        {{ range .Params.expertise }}
+        <span class="bg-lightest-blue blue ph2 pv1 br2 mr1 f7">{{ . }}</span>
+        {{ end }}
+      </div>
+    </a>
+  </div>
+{{ end }}
+</div>
