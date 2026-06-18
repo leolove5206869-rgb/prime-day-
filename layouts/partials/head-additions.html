@@ -16,6 +16,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Analytics 4 -->
 
+<!-- Google Ads Conversion Tracking -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-6403677154"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-6403677154');
+</script>
+<!-- End Google Ads Conversion Tracking -->
+
+<!-- Web Vitals RUM via GTM dataLayer -->
+<script>
+(function(){var w=window,d=document;function sendToGTM(m){w.dataLayer.push({event:'web-vitals',event_category:'Web Vitals',event_label:m.name,value:Math.round(m.name==='CLS'?m.delta*1000:m.delta),non_interaction:true});}
+var v='https://unpkg.com/web-vitals@4/dist/web-vitals.iife.js';if(!w.webVitals){var s=d.createElement('script');s.src=v;s.onload=function(){['onLCP','onFID','onCLS','onINP','onTTFB'].forEach(function(fn){if(w.webVitals[fn])w.webVitals[fn](sendToGTM);});};d.head.appendChild(s);}})();
+</script>
+<!-- End Web Vitals RUM -->
+
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta name="author" content="HomeKitchen Picks Team">
 <meta name="affiliate-disclosure" content="This site earns commissions through affiliate programs including Awin. Our reviews are not influenced by affiliate relationships.">
@@ -41,6 +58,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {{ end }}
 
 {{ partial "schema.html" . }}
+<!-- Google Ads Conversion Tracking (inert until AW- ID is set) -->
+{{ partial "google-ads-conversion.html" . }}
+
 
 <!-- GEO: Speakable content identification -->
 {{ if .IsPage }}
