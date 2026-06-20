@@ -1,62 +1,161 @@
-{{- if and (eq .Type "review") .IsPage }}
-{{- $current := . }}
-{{- $related := slice }}
-{{- /* Keyword groups: map category keywords to their reviews */}}
-{{- $keywords := dict
-  "coffee" (slice "coffee" "espresso" "french" "grinder" "brew")
-  "knife" (slice "knife" "knives" "chef" "cutting" "blade")
-  "cooking" (slice "air fryer" "toaster" "slow cooker" "oven" "bake" "roast")
-  "blender" (slice "blender" "smoothie" "mix" "blend")
-  "smart" (slice "doorbell" "smart" "ring" "security" "camera")
-}}
-{{- /* Find which keyword groups this page belongs to */}}
-{{- $pageTitle := lower .Title }}
-{{- $pageCategories := slice }}
-{{- range $group, $groupKeywords := $keywords }}
-  {{- range $groupKeywords }}
-    {{- if in $pageTitle . }}
-      {{- $pageCategories = $pageCategories | append $group }}
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- /* Collect related pages from same categories */}}
-{{- $seen := slice $current.RelPermalink }}
-{{- range where $current.Site.Pages "Type" "review" }}
-  {{- if and (ne .RelPermalink $current.RelPermalink) (ne .Title "") }}
-    {{- $otherTitle := lower .Title }}
-    {{- range $pageCategories }}
-      {{- $groupKeywords := index $keywords . }}
-      {{- range $groupKeywords }}
-        {{- if and (in $otherTitle .) (not (in $seen $current.RelPermalink)) }}
-          {{- $related = $related | append . }}
-          {{- $seen = $seen | append .RelPermalink }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- /* Fallback: if no keyword match, show any other reviews */}}
-{{- if lt (len $related) 2 }}
-  {{- $related = slice }}
-  {{- range where $current.Site.Pages "Type" "review" }}
-    {{- if and (ne .RelPermalink $current.RelPermalink) (lt (len $related) 4) }}
-      {{- $related = $related | append . }}
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- if gt (len $related) 0 }}
-<div class="mt5 pt4 bt b--light-gray">
-  <h2 class="f3 mb3">Related Reviews</h2>
-  <div class="flex flex-wrap">
-    {{- range $related }}
-    <div class="w-100 w-50-m mb3 pr3-m">
-      <article class="bg-white ba b--light-gray br2 pa3 h-100">
-        <h3 class="f5 mt0 mb2"><a href="{{ .RelPermalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h3>
-        {{ with .Summary }}<p class="f6 lh-copy mid-gray mv0">{{ . | truncate 120 }}</p>{{ end }}
-      </article>
+{{- /* ────────────────────────────────────────────────────────────
+  related-reviews.html
+  ────────────────────────────────────────────────────────────
+  Uses Hugo .RelatedPages (configured in hugo.toml [related])
+  to show related reviews as rich cards. Falls back to keyword
+  matching if .RelatedPages returns fewer than 2 results.
+  Also shows a single "Read Next" spotlight card.
+  ──────────────────────────────────────────────────────────── */}}
+{{- $current := . -}}
+{{- $related := .Site.RegularPages.Related . | first 5 -}}
+
+{{- /* Fallback: if RelatedPages returns < 2, use keyword-based approach */ -}}
+{{- if lt (len $related) 2 -}}
+  {{- $keywords := dict
+    "coffee" (slice "coffee" "espresso" "french" "grinder" "brew")
+    "knife" (slice "knife" "knives" "chef" "cutting" "blade")
+    "cooking" (slice "air fryer" "toaster" "slow cooker" "oven" "bake" "roast")
+    "blender" (slice "blender" "smoothie" "mix" "blend")
+    "smart" (slice "doorbell" "smart" "ring" "security" "camera")
+  -}}
+  {{- $pageTitle := lower .Title -}}
+  {{- $pageGroups := slice -}}
+  {{- range $group, $groupKeywords := $keywords -}}
+    {{- range $groupKeywords -}}
+      {{- if in $pageTitle . -}}
+        {{- $pageGroups = $pageGroups | append $group -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $related = slice -}}
+  {{- $seen := slice $current.RelPermalink -}}
+  {{- range where $current.Site.Pages "Type" "review" -}}
+    {{- if and (ne .RelPermalink $current.RelPermalink) (ne .Title "") -}}
+      {{- $otherTitle := lower .Title -}}
+      {{- $match := false -}}
+      {{- range $pageGroups -}}
+        {{- $gk := index $keywords . -}}
+        {{- range $gk -}}
+          {{- if in $otherTitle . -}}{{- $match = true -}}{{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if and $match (not (in $seen .RelPermalink)) -}}
+        {{- $related = $related | append . -}}
+        {{- $seen = $seen | append .RelPermalink -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Still too few? Grab any other reviews */ -}}
+  {{- if lt (len $related) 2 -}}
+    {{- range where $current.Site.Pages "Type" "review" -}}
+      {{- if and (ne .RelPermalink $current.RelPermalink) (not (in $seen .RelPermalink)) (lt (len $related) 4) -}}
+        {{- $related = $related | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $related) 0 -}}
+
+{{/* ───── "Read Next" spotlight ───── */}}
+{{- $first := index $related 0 -}}
+<div class="read-next mb4">
+  <span class="read-next-label">Read Next</span>
+  <a href="{{ $first.RelPermalink }}" class="read-next-link">
+    {{ if $first.Params.image }}
+    <img src="{{ $first.Params.image }}" alt="{{ $first.Title }}" class="read-next-image" loading="lazy">
+    {{ end }}
+    <div class="read-next-body">
+      <h3 class="read-next-title">{{ $first.Title }}</h3>
+      {{ with $first.Params.summary }}
+      <p class="read-next-summary">{{ . | truncate 140 }}</p>
+      {{ else }}
+      <p class="read-next-summary">{{ $first.Summary | truncate 140 }}</p>
+      {{ end }}
+      {{ if $first.Params.rating }}
+      <div class="read-next-rating">
+        <span class="review-summary-stars">{{ "★★★★★" | safeHTML }}</span>
+        <span class="read-next-score">{{ $first.Params.rating }}/5</span>
+      </div>
+      {{ end }}
     </div>
-    {{- end }}
+  </a>
+</div>
+
+{{/* ───── Related Reviews grid (remaining cards) ───── */}}
+{{- $remaining := after 1 $related -}}
+{{- if gt (len $remaining) 0 -}}
+<div class="related-section">
+  <h2 class="related-section-heading">More Reviews You Might Like</h2>
+  <div class="related-grid">
+    {{- range $remaining -}}
+    <div class="related-card">
+      <a href="{{ .RelPermalink }}" class="related-card-link">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="related-card-image" loading="lazy">
+        {{ end }}
+        <div class="related-card-body">
+          <h3 class="related-card-title">{{ .Title }}</h3>
+          {{ with .Params.summary }}
+          <p class="related-card-summary">{{ . | truncate 100 }}</p>
+          {{ end }}
+          {{ if .Params.rating }}
+          <div class="related-card-footer">
+            <span class="review-summary-stars related-stars">{{ "★★★★★" | safeHTML }}</span>
+            <span class="related-score">{{ .Params.rating }}/5</span>
+          </div>
+          {{ end }}
+        </div>
+      </a>
+    </div>
+    {{- end -}}
   </div>
 </div>
-{{- end }}
-{{- end }}
+{{- end -}}
+
+{{/* ───── Series Articles (increases PV/U) ───── */}}
+{{- $series := .Params.series -}}
+{{- if $series -}}
+  {{- $seriesPages := where $.Site.RegularPages ".Params.series" $series -}}
+  {{- if gt (len $seriesPages) 1 -}}
+<div class="series-section">
+  <h2 class="series-section-heading">Series: {{ $series }}</h2>
+  <div class="series-list">
+    {{- range $seriesPages -}}
+    <a href="{{ .RelPermalink }}" class="series-item{{ if eq .RelPermalink $current.RelPermalink }} series-item--current{{ end }}">
+      <span class="series-item-title">{{ .Title }}</span>
+      {{ if .Params.rating }}
+      <span class="series-item-rating">{{ .Params.rating }}/5</span>
+      {{ end }}
+    </a>
+    {{- end -}}
+  </div>
+</div>
+  {{- end -}}
+{{- end -}}
+
+{{/* ───── Category Quick Links (increases PV/U) ───── */}}
+{{- $categories := .Params.categories -}}
+{{- if $categories -}}
+<div class="category-links-section">
+  <h2 class="category-links-heading">Browse More</h2>
+  <div class="category-links-grid">
+    {{- range $categories -}}
+      {{- $catPages := where $.Site.RegularPages ".Params.categories" "." -}}
+      {{- $catPages = $catPages | first 3 -}}
+      {{- range $catPages -}}
+        {{- if ne .RelPermalink $current.RelPermalink -}}
+    <a href="{{ .RelPermalink }}" class="category-link-card">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" class="category-link-image" loading="lazy">
+      {{ end }}
+      <span class="category-link-title">{{ .Title }}</span>
+    </a>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </div>
+</div>
+{{- end -}}
+
+{{- end -}}

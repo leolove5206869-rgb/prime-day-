@@ -6,3 +6,4 @@ public/*
 !public/images/*
 .DS_Store
 *.log
+.vercel

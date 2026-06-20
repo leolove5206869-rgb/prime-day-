@@ -1,0 +1,46 @@
+{{/* ────────────────────────────────────────────────────────────
+  google-ads-conversion.html
+  ────────────────────────────────────────────────────────────
+  Google Ads conversion tracking snippet.
+
+  ACTIVATION:
+    1. Create a Google Ads account at ads.google.com
+    2. Add to your hugo.toml:
+       [params]
+         google_ads_id = "AW-123456789"
+         google_ads_label = "abcDEF1234"
+       (Set both to "" to disable.)
+
+  HOW IT WORKS:
+    - Fires the global gtag config on every page view.
+    - Tracks outbound Amazon link clicks as conversions via
+      a data attribute on .amazon-cta-button links.
+  ──────────────────────────────────────────────────────────── */}}
+
+{{ if .Site.Params.google_ads_id }}
+{{ $adsID := .Site.Params.google_ads_id }}
+{{ $adsLabel := .Site.Params.google_ads_label | default "" }}
+
+<!-- Google Ads global site tag -->
+<script>
+  gtag('config', '{{ $adsID }}');
+</script>
+
+<!-- Outbound link click conversion tracking -->
+<script>
+(function() {
+  var adsID = '{{ $adsID }}';
+  var adsLabel = '{{ $adsLabel }}';
+  document.querySelectorAll('.amazon-cta-button').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      gtag('event', 'conversion', {
+        'send_to': adsID + (adsLabel ? '/' + adsLabel : ''),
+        'event_callback': function() {
+          // Allow navigation to proceed normally
+        }
+      });
+    });
+  });
+})();
+</script>
+{{ end }}

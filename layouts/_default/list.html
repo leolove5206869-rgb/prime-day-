@@ -8,13 +8,23 @@
     {{ . }}
   </div>
   {{ end }}
+  {{ $count := 0 }}
   {{ range .Pages }}
+  {{ $count = add $count 1 }}
   <div class="mb4 pb4 bb b--light-gray">
     <h2 class="f3 mb2"><a href="{{ .RelPermalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h2>
     <p class="f5 silver mb2">{{ .Date.Format "January 2, 2006" }}</p>
     <p class="f5 lh-copy nested-copy-line-height">{{ .Summary | truncate 200 }}</p>
     <a href="{{ .RelPermalink }}" class="f6 link blue hover-dark-blue">Read review →</a>
   </div>
+  {{ if eq $count 3 }}
+  <div class="ad-container ad-container--in-content mv4" aria-label="Advertisement">
+    <!-- Ad slot: list-in-content-after-3 -->
+  </div>
   {{ end }}
+  {{ end }}
+  <div class="ad-container ad-container--leaderboard mv4" aria-label="Advertisement">
+    <!-- Ad slot: list-bottom -->
+  </div>
 </article>
 {{ end }}

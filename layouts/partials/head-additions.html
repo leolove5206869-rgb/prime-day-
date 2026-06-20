@@ -33,6 +33,25 @@ var v='https://unpkg.com/web-vitals@4/dist/web-vitals.iife.js';if(!w.webVitals){
 </script>
 <!-- End Web Vitals RUM -->
 
+<!-- Lazy-load ads for INP optimization -->
+<script>
+(function(){
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('ad-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { rootMargin: '200px' });
+  
+  document.querySelectorAll('.ad-lazy').forEach(function(ad) {
+    observer.observe(ad);
+  });
+})();
+</script>
+<!-- End Lazy-load ads -->
+
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | truncate 160 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta name="author" content="HomeKitchen Picks Team">
 <meta name="affiliate-disclosure" content="This site earns commissions through affiliate programs including Awin. Our reviews are not influenced by affiliate relationships.">

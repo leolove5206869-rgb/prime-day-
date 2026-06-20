@@ -20,6 +20,8 @@
   <main class="{{ block "main-class" . }}pb7{{ end }}" role="main">
     {{ block "main" . }}{{ end }}
   </main>
+  {{ partial "cookie-consent.html" . }}
   {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+  <script src="{{ "/js/cookie-consent.js" | relURL }}" defer></script>
 </body>
 </html>

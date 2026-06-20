@@ -1,22 +1,32 @@
 #!/bin/bash
+# ======================================================
+# 生产部署已被 GitHub Actions CI 接管
+# ======================================================
+# 你的本地环境已与生产域名隔离。
+#
+# 本地开发:   hugo server
+# 预览部署:   vercel
+# 生产部署:   git push → GitHub Actions
+#
+# 推送到 main 分支将自动构建并部署。
+# ======================================================
 
-echo "🚀 开始构建 Hugo 站点..."
-hugo --gc --minify
+set -euo pipefail
 
-if [ $? -ne 0 ]; then
-    echo "❌ Hugo 构建失败，请检查错误信息。"
-    exit 1
-fi
-
-echo "✅ Hugo 构建完成！"
+echo "=============================================="
+echo "  🔒 生产部署已被 GitHub Actions CI 接管"
+echo "=============================================="
 echo ""
-echo "🌐 开始部署到 Netlify..."
-netlify deploy --prod
-
-if [ $? -ne 0 ]; then
-    echo "❌ 部署失败，请检查 Netlify 配置。"
-    exit 1
-fi
-
+echo "  你的本地环境已与生产域名隔离。"
 echo ""
-echo "🎉 部署成功！网站已更新。"
+echo "  本地开发:   hugo server"
+echo "  预览部署:   vercel"
+echo "  生产部署:   git push → GitHub Actions"
+echo ""
+echo "=============================================="
+
+read -p "推送到 GitHub 以触发 CI 生产部署？(y/N): " confirm
+if [[ "$confirm" =~ ^[Yy]$ ]]; then
+  git push origin main
+  echo "✅ 已推送。在 https://github.com/leolove5206869-rgb/prime-day-/actions 查看进度"
+fi

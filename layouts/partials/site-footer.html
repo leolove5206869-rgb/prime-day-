@@ -11,3 +11,21 @@
     </p>
   </div>
 </footer>
+
+<script>
+(function(){
+  if(!('IntersectionObserver' in window)) return;
+  var ads = document.querySelectorAll('.ad-lazy');
+  if(!ads.length) return;
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){
+        var el = e.target;
+        el.classList.add('ad-visible');
+        io.unobserve(el);
+      }
+    });
+  },{rootMargin:'200px'});
+  ads.forEach(function(ad){io.observe(ad);});
+})();
+</script>

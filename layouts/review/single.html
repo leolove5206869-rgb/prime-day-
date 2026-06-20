@@ -23,8 +23,108 @@
     {{ end }}
   </div>
 
-  <div class="review-content nested-copy-line-height lh-copy nested-links">
-    {{ .Content }}
-  </div>
+  {{/* ────────────────── Two-column layout ────────────────── */}}
+  <div class="review-layout">
+    {{/* ──────────── Main content column ──────────── */}}
+    <div class="review-layout-main">
+
+      {{/* Answer Summary Box */}}
+      {{ if .Params.summary }}
+      <div class="review-summary">
+        <h2 class="review-summary-heading">The Quick Take</h2>
+        <p class="review-summary-text">{{ .Params.summary }}</p>
+        {{ if .Params.rating }}
+        <div class="review-summary-rating">
+          <span class="review-summary-label">Our Rating:</span>
+          <span class="review-summary-stars">{{ "★★★★★" | safeHTML }}</span>
+          <span class="review-summary-score">{{ .Params.rating }}/5</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Collapsible Table of Contents (on long articles) */}}
+      {{ if gt .WordCount 800 }}
+      <details class="review-toc review-toc--mobile">
+        <summary class="review-toc-summary">Table of Contents</summary>
+        <nav class="review-toc-body">
+          {{ .TableOfContents }}
+        </nav>
+      </details>
+      {{ end }}
+
+      <div class="review-content nested-copy-line-height lh-copy nested-links">
+        {{/* Split content at paragraph 3 for ad insertion */}}
+        {{ $content := .Content }}
+        {{ $parts := split $content "<p>" }}
+        {{ if gt (len $parts) 4 }}
+          {{/* First 3 paragraphs */}}
+          {{ range first 3 $parts }}
+            {{ if . }}<p>{{ . | safeHTML }}</p>{{ end }}
+          {{ end }}
+          
+          {{/* In-paragraph ad after 3rd paragraph */}}
+          <div class="ad-container ad-container--in-paragraph ad-lazy" aria-label="Advertisement" data-ad-slot="review-in-paragraph-1">
+            <!-- Ad slot: review-in-paragraph-1 -->
+          </div>
+          
+          {{/* Remaining paragraphs */}}
+          {{ range after 3 $parts }}
+            {{ if . }}<p>{{ . | safeHTML }}</p>{{ end }}
+          {{ end }}
+        {{ else }}
+          {{/* Less than 4 paragraphs, show all */}}
+          {{ $content | safeHTML }}
+        {{ end }}
+      </div>
+
+      {{/* ──────────── In-content Ad (after content, before CTA) ──────────── */}}
+      <div class="ad-container ad-container--in-content my4 ad-lazy" aria-label="Advertisement" data-ad-slot="review-in-content-1">
+        <!-- Ad slot: review-in-content-1 -->
+      </div>
+
+      {{/* ──────────── Amazon CTA Section ──────────── */}}
+      {{ if .Params.affiliate_ids }}
+      {{ $asin := index .Params.affiliate_ids 0 }}
+      {{ $amazonLink := printf "https://www.amazon.com/dp/%s?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" $asin }}
+      <div class="amazon-cta">
+        <h3 class="amazon-cta-heading">Ready to Buy?</h3>
+        <p class="amazon-cta-text">Get the best price on Amazon with free shipping and easy returns.</p>
+        <a href="{{ $amazonLink }}" class="amazon-cta-button" target="_blank" rel="nofollow sponsored">
+          Check Price on Amazon
+        </a>
+        <p class="amazon-cta-disclosure">We earn a commission if you buy, at no extra cost to you.</p>
+      </div>
+      {{ end }}
+
+      {{/* ──────────── Bottom Ad Slot ──────────── */}}
+      <div class="ad-container ad-container--in-content my4 ad-lazy" aria-label="Advertisement" data-ad-slot="review-in-content-2">
+        <!-- Ad slot: review-in-content-2 -->
+      </div>
+
+      {{/* ──────────── Related Reviews ──────────── */}}
+      {{ partial "related-reviews.html" . }}
+
+    </div>{{/* /review-layout-main */}}
+
+    {{/* ──────────── Desktop sidebar column ──────────── */}}
+    <aside class="review-layout-sidebar">
+      {{/* Sticky Table of Contents */}}
+      {{ if gt .WordCount 800 }}
+      <div class="review-toc review-toc--sidebar">
+        <h3 class="review-toc-heading">On This Page</h3>
+        <nav class="review-toc-body">
+          {{ .TableOfContents }}
+        </nav>
+      </div>
+      {{ end }}
+
+      {{/* Sticky ad placeholder (desktop only) */}}
+      <div class="ad-container ad-container--sidebar mt3" aria-label="Advertisement">
+        <!-- Ad slot: review-sidebar -->
+      </div>
+    </aside>
+  </div>{{/* /review-layout */}}
+
 </article>
 {{ end }}

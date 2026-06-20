@@ -39,8 +39,14 @@ Our site uses cookies for:
 - **Affiliate link tracking**: To attribute qualifying purchases (see above)
 - **Basic analytics**: To understand which pages are most popular (Google Analytics or similar)
 - **User experience**: To remember your preferences
+- **Advertising**: We may partner with third-party ad networks (e.g., Google AdSense, Mediavine, or similar) to display advertisements on our site. These ad networks may use cookies and similar tracking technologies to serve personalized ads based on your browsing activity across different websites. You can learn more about how Google uses data when you consent to personalized ads at [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
 
-You can disable cookies in your browser settings. However, affiliate links will still work — they simply won't be tracked for commission attribution.
+**Your cookie choices:**
+- You can disable non-essential cookies via your browser settings
+- You can opt out of personalized advertising at [optout.aboutads.info](https://optout.aboutads.info/) (NAI / DAA opt-out)
+- You can manage Google ad personalization at [adssettings.google.com](https://adssettings.google.com/)
+- Disabling cookies will not block ads entirely, but ads may be less relevant to your interests
+- Affiliate links will still work without cookies — they simply won't track for commission attribution
 
 ## Third-Party Services
 

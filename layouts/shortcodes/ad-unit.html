@@ -1,0 +1,19 @@
+{{- /* Ad Unit Shortcode — CLS-safe container
+  Usage:
+    {{< ad-unit "in-content" >}}
+    {{< ad-unit "leaderboard" >}}
+    {{< ad-unit "sidebar" >}}
+
+  Positions & heights:
+    in-content  mobile: 280px, tablet: 120px, desktop: 90px
+    leaderboard all: 90px
+    sidebar     all: 600px (desktop only)
+
+  This renders an empty placeholder with reserved min-height.
+  Active ad network code is injected at approval time.
+*/ -}}
+{{- $position := .Get 0 | default "in-content" -}}
+{{- $id := printf "ad-slot-%s-%d" $position now.UnixNano -}}
+<div id="{{ $id }}" class="ad-container ad-container--{{ $position }}" aria-label="Advertisement">
+  <!-- Ad placeholder: {{ $position }} -->
+</div>
