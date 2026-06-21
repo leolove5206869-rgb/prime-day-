@@ -1,23 +1,13 @@
 User-agent: *
 Allow: /
 
-# Allow AI crawlers for GEO visibility
+# Allow AI crawlers explicitly for GEO visibility
 User-agent: GPTBot
-Allow: /
-
 User-agent: Claude-Web
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
 User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: PerplexityBot
 Allow: /
 
 Sitemap: https://homekitchenpicks.com/sitemap.xml
