@@ -6,8 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
+  {{- /* Speed: preconnect to third-party origins */ -}}
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://www.google-analytics.com">
+  <link rel="dns-prefetch" href="https://unpkg.com">
+  {{- /* Speed: preload critical local CSS */ -}}
+  <link rel="preload" href="{{ "/css/tachyons.min.css" | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ "/css/tachyons.min.css" | relURL }}"></noscript>
   <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css">
   {{ partial "head-additions.html" . }}
   {{ block "head" . }}{{ end }}
 </head>
