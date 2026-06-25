@@ -12,6 +12,40 @@
   </div>
 </section>
 
+{{/* Trust Bar */}}
+<section class="trust-bar">
+  <div class="trust-bar-inner">
+    <div class="trust-item">
+      <span class="trust-icon">🔬</span>
+      <div class="trust-text">
+        <strong>90+ Products Tested</strong>
+        <small>In real kitchens, with real use</small>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">⏱️</span>
+      <div class="trust-text">
+        <strong>30-Day Minimum Testing</strong>
+        <small>No quick takes — we live with each product</small>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">💰</span>
+      <div class="trust-text">
+        <strong>Bought at Full Price</strong>
+        <small>No free review units, no sponsored picks</small>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">📊</span>
+      <div class="trust-text">
+        <strong>Side-by-Side Comparisons</strong>
+        <small>We test alternatives so you don't have to</small>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ with site.GetPage "/reviews" }}
 {{ $allSorted := .Pages.ByDate.Reverse }}
 
@@ -147,8 +181,6 @@
     {{ end }}
   </div>
 </main>
-{{ end }}
-{{ end }}
 
 {{/* Newsletter Section */}}
 <section class="newsletter-section">
@@ -164,3 +196,5 @@
     </form>
   </div>
 </section>
+{{ end }}
+{{ end }}
