@@ -57,3 +57,32 @@ footer {
   color: #6b7280;
   font-size: 0.95rem;
 }
+
+/* ========== Review Card CTA Button ========== */
+.review-card-cta {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #2563eb;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.review-card-cta:hover {
+  background-color: #1d4ed8;
+  color: #ffffff;
+}
+
+.review-card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.review-card-cta-wrapper {
+  margin-top: auto;
+}
