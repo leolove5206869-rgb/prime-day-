@@ -1,8 +1,8 @@
 {{ define "title" }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Title }}{{ end }}
 {{ define "main" }}
-<article class="mw8 center ph4 pv4">
+<article class="mw8 center ph4 pv4{{ if .Params.affiliate_ids }} has-sticky-cta{{ end }}">
   {{ if .Params.image }}
-  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb4 review-hero-image">
+  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb4 review-hero-image" loading="eager" fetchpriority="high">
   {{ end }}
 
   <span class="affiliate-badge">We may earn a commission — <a href="/privacy-policy/#affiliate-disclosure" class="link">learn more</a></span>
@@ -127,4 +127,21 @@
   </div>{{/* /review-layout */}}
 
 </article>
+
+{{/* Sticky Mobile CTA Bar */}}
+{{ if .Params.affiliate_ids }}
+{{ $asin := index .Params.affiliate_ids 0 }}
+{{ $amazonLink := printf "https://www.amazon.com/dp/%s?tag=homekitchenpic-20&linkCode=osi&th=1&psc=1" $asin }}
+<div class="sticky-cta-bar">
+  <div class="sticky-cta-inner">
+    <div class="sticky-cta-text">
+      <strong>{{ .Params.brand | default "Top Pick" }}</strong>
+      <small>Best price on Amazon</small>
+    </div>
+    <a href="{{ $amazonLink }}" class="sticky-cta-button" target="_blank" rel="nofollow sponsored">
+      Check Price →
+    </a>
+  </div>
+</div>
+{{ end }}
 {{ end }}
